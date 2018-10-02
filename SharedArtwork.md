@@ -151,7 +151,7 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |EX Delta Species|38/113|Ditto
-|POP Series 3|12/17|Mr. Mime
+|POP Series 3|12/17|Ditto
 
 ## 123 - Scyther
 
