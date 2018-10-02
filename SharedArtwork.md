@@ -7,13 +7,15 @@ This file documents Pokémon which appear in the artwork of other Pokémon cards
 
 Research is still being carried out on this list. There is still a lot to do before it's anywhere near complete.
 
+See [Shared Artwork #1](https://github.com/PokeTCG/research/issues/1) to find out what needs doing before this notice can be removed.
+
 ---
 
-As an example, the below card is a Slowbro from the Undaunted set which features both Chikorita and Cyndaquil in its artwork:
+As an example, the below card is a Slowbro from the Undaunted set:
 
 ![Slowbro](https://i.imgur.com/n5M4fRa.png)
 
-Nowhere in this card's text does it mention either of those Pokémon, meaning you won't find this card when searching for "Chikorita" or "Cyndaquil".
+Nowhere in the card's text does it mention Chikorita or Cyndaquil, two Pokémon also featured in the card's artwork. This usually means that you won't find this card when searching for "Chikorita" or "Cyndaquil", even though a collector of those cards may like to have this in their collection.
 
 ---
 
@@ -33,17 +35,48 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 
 ---
 
+## 001 - Bulbasaur
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Delta Species|36/113|Ditto
+
+## 004 - Charmander
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Delta Species|37/113|Ditto
+|EX Delta Species|61/113|Ditto
+
+## 007 - Squirtle
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Delta Species|40/113|Ditto
+|EX Delta Species|64/113|Ditto
+
 ## 013 - Weedle
 
 |Set|Number|Card|
 |:--|:--|:--|
 |Crimson Invasion|72/111|Wigglytuff
 
+## 021 - Spearow
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Roaring Skies|1/108|Exeggcute
+|Roaring Skies|2/108|Exeggutor
+
 ## 025 - Pikachu
 
 |Set|Number|Card|
 |:--|:--|:--|
 |Undaunted|66/90|Slowpoke
+|EX Delta Species|39/113|Ditto
+|EX Delta Species|63/113|Ditto
+|BW Black Star Promos|BW97|Eevee
+|XY Black Star Promos|XY40|Ditto
 
 ## 029 - Nidoran ♀
 
@@ -75,6 +108,26 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |Steam Siege|53/114|Primeape
 
+## 067 - Machoke
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Furious Fists|47/111|Hitmonlee
+|Generations|47/83|Hitmonlee
+
+## 068 - Machamp
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Furious Fists|37/111|Jynx
+|Generations|36/83|Jynx
+
+## 074 - Geodude
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Delta Species|62/113|Ditto
+
 ## 090 - Shellder
 
 |Set|Number|Card|
@@ -86,6 +139,19 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |BREAKpoint|81/122|Clefairy
+
+## 103 - Exeggutor
+
+|Set|Number|Card|
+|:--|:--|:--|
+|SM Black Star Promos|SM119|Exeggcute
+
+## 122 - Mr. Mime
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Delta Species|38/113|Ditto
+|POP Series 3|12/17|Mr. Mime
 
 ## 123 - Scyther
 
@@ -116,18 +182,32 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY122|Blastoise
+|Generations|RC28|Flareon EX
 
 ## 135 - Jolteon
 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY124|Pikachu
+|Generations|RC28|Flareon EX
 
 ## 136 - Flareon
 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY121|Charizard
+
+## 139 - Omastar
+
+|Set|Number|Card
+|:--|:--|:--|
+|Arceus|4/99|Kabutops
+
+## 150 - Mewtwo
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|78/162|Marowak
 
 ## 155 - Chikorita
 
@@ -146,6 +226,12 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |Undaunted|66/90|Slowpoke
+
+## 226 - Mantine
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Ancient Origins|22/98|Vaporeon
 
 ## 278 - Wingull
 
@@ -183,11 +269,41 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |Burning Shadows|41/147|Raichu
 
+## 455 - Carnivine
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Undaunted|48/90|Eevee
+
+## 462 - Magnezone
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|164/162|Mewtwo EX
+
+## 488 - Cresselia
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|164/162|Mewtwo EX
+
+## 490 - Manaphy
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKpoint|123/122|Gyarados
+
 ## 495 - Snivy
 
 |Set|Number|Card|
 |:--|:--|:--|
 |Fates Collide|65/124|Jigglypuff
+
+## 571 - Zoroark
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|163/162|Mewtwo EX
 
 ## 580 - Ducklett
 
@@ -195,11 +311,36 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |BREAKpoint|19/122|Slowpoke
 
+## 612 - Haxorus
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|163/162|Mewtwo EX
+
+## 648 - Meloetta
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|163/162|Mewtwo EX
+
 ## 650 - Chespin
 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY95|Pikachu
+|BREAKthrough|118/162|Snorlax
+
+## 652 - Chesnaught
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKthrough|164/162|Mewtwo EX
+
+## 658 - Greninja
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKpoint|123/122|Gyarados
 
 ## 686 - Inkay
 
