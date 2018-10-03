@@ -77,6 +77,7 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |EX Delta Species|63/113|Ditto
 |BW Black Star Promos|BW97|Eevee
 |XY Black Star Promos|XY40|Ditto
+|Generations|RC1|Chikorita
 
 ## 029 - Nidoran ♀
 
@@ -146,6 +147,12 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |SM Black Star Promos|SM119|Exeggcute
 
+## 116 - Horsea
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Phantom Forces|15/119|Totodile
+
 ## 122 - Mr. Mime
 
 |Set|Number|Card|
@@ -164,12 +171,19 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY124|Pikachu
+|Furious Fists|49/111|Hitmontop
 
 ## 126 - Magmar
 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY121|Charizard
+
+## 129 - Magikarp
+
+|Set|Number|Card|
+|:--|:--|:--|
+|HeartGold & SoulSilver|50/123|Qwilfish
 
 ## 130 - Gyarados
 
@@ -227,11 +241,53 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |Undaunted|66/90|Slowpoke
 
+## 176 - Togetic
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Team Rocket Returns|50/109|Togepi
+
+## 178 - Xatu
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Sandstorm|69/100|Natu
+
+## 184 - Azumarill
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Burning Shadows|31/147|Kingdra
+
+## 216 - Teddiursa
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Generations|RC16|Ursaring
+
+## 223 - Remoraid
+
+|Set|Number|Card|
+|:--|:--|:--|
+|EX Team Rocket Returns|45/109|Mantine
+|EX Dragon Frontiers|20/101|Mantine
+|Mysterious Treasures|29/123|Mantine
+|HeartGold & SoulSilver|45/123|Mantine
+|Steam Siege|27/114|Mantine
+
 ## 226 - Mantine
 
 |Set|Number|Card|
 |:--|:--|:--|
 |Ancient Origins|22/98|Vaporeon
+|Mysterious Treasures|95/123|Remoraid
+|Unleashed|59/95|Remoraid
+
+## 243 - Raikou
+
+|Set|Number|Card|
+|:--|:--|:--|
+|POP Series 2|1/17|Entei
 
 ## 278 - Wingull
 
@@ -263,6 +319,12 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |Legendary Treasures|18/113|Charmeleon
 
+## 370 - Luvdisk
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Crimson Invasion|23/111|Octillery
+
 ## 453 - Croagunk
 
 |Set|Number|Card|
@@ -274,6 +336,18 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |Undaunted|48/90|Eevee
+
+## 456 - Finneon
+
+|Set|Number|Card|
+|:--|:--|:--|
+|HeartGold & SoulSilver|50/123|Qwilfish
+
+## 457 - Lumineon
+
+|Set|Number|Card|
+|:--|:--|:--|
+|HeartGold & SoulSilver|50/123|Qwilfish
 
 ## 462 - Magnezone
 
@@ -311,6 +385,12 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |:--|:--|:--|
 |BREAKpoint|19/122|Slowpoke
 
+## 587 - Emolga
+
+|Set|Number|Card|
+|:--|:--|:--|
+|Legendary Treasures|3/113|Shuckle
+
 ## 612 - Haxorus
 
 |Set|Number|Card|
@@ -322,6 +402,12 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |BREAKthrough|163/162|Mewtwo EX
+
+## 653 - Fenekin
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKpoint|1/122|Chikorita
 
 ## 650 - Chespin
 
@@ -359,3 +445,9 @@ If you want to find cards which feature Pikachu in their artwork, for instance, 
 |Set|Number|Card|
 |:--|:--|:--|
 |XY Black Star Promos|XY95|Pikachu
+
+## 709 - Trevenant
+
+|Set|Number|Card|
+|:--|:--|:--|
+|BREAKpoint|67/122|Sudowoodo
