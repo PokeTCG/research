@@ -3,6 +3,24 @@ This file documents Pokémon which appear in various World Championships decks.
 
 ---
 
+**⚠️  This is a work-in-progress!**
+
+See [World Championships #2](https://github.com/PokeTCG/research/issues/2) to find out what needs doing before this notice can be removed.
+
+---
+
+![World Championships 2004 logo](https://i.imgur.com/GSliL8m.png)
+
+Starting in 2004, every year four special *World Championships* decks are released to immortalise the cards played by some of the top players in the world. 
+
+Each card in a World Championships deck has a special non-standard back and features the deck creator's signature printed on top of the card's artwork. These cards are *not* tournament legal themselves.
+
+Below is an example of the Magnezone card used in David Cohen's 2011 World Championships deck, Twinboar (image credit: [RexTechs](http://www.rextechs.net/fake-pokemon-cards)).
+
+![Example World Championships Card](https://i.imgur.com/HEBttX8.png)
+
+---
+
 ## How to use this document
 
 Cards are listed in the following format:
