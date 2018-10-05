@@ -77,6 +77,7 @@ Below is a representation of how each card fits together to form the above image
 |Mudkip
 |Phanpy
 |Totodile
+|Shroomish
 |Slowpoke
 |Sudowoodo
 |Surskit
