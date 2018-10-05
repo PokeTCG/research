@@ -16,6 +16,8 @@ Below is a representation of how each card fits together to form the above image
 
 ## Adventure Card 076
 
+![https://i.imgur.com/TNElcL2.png](https://i.imgur.com/TNElcL2.png)
+
 |Pokémon on Front
 |:-:|
 |Lugia
@@ -29,6 +31,8 @@ Below is a representation of how each card fits together to form the above image
 
 ## Adventure Card 077
 
+![https://i.imgur.com/CvfwKXv.png](https://i.imgur.com/CvfwKXv.png)
+
 |Pokémon on Front
 |:-:|
 |Entei
@@ -37,6 +41,8 @@ Below is a representation of how each card fits together to form the above image
 |Suicune
 
 ## Adventure Card 078
+
+![https://i.imgur.com/tbBizu9.png](https://i.imgur.com/tbBizu9.png)
 
 |Pokémon on Front
 |:-:|
@@ -55,6 +61,8 @@ Below is a representation of how each card fits together to form the above image
 ⚠️  Information required.
 
 ## Adventure Card 081
+
+![https://i.imgur.com/kwlw6k7.png](https://i.imgur.com/kwlw6k7.png)
 
 |Pokémon on Front
 |:-:|
@@ -75,6 +83,8 @@ Below is a representation of how each card fits together to form the above image
 
 ## Adventure Card 082
 
+![https://i.imgur.com/MaaRaTe.png](https://i.imgur.com/MaaRaTe.png)
+
 |Pokémon on Front
 |:-:|
 |Munchlax
@@ -83,6 +93,8 @@ Below is a representation of how each card fits together to form the above image
 
 ## Adventure Card 083
 
+![https://i.imgur.com/qfTBixT.png](https://i.imgur.com/qfTBixT.png)
+
 |Pokémon on Front
 |:-:|
 |Groudon
@@ -90,4 +102,9 @@ Below is a representation of how each card fits together to form the above image
 
 ## Adventure Card 084
 
-⚠️  Information required.
+![https://i.imgur.com/EMpiNGX.png](https://i.imgur.com/EMpiNGX.png)
+
+|Pokémon on Front
+|:-:|
+|Celebi
+|Jirachi
