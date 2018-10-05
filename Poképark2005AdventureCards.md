@@ -1,0 +1,93 @@
+# Poképark Adventure Cards
+
+This document sets out to list all Japanese *Adventure Cards* which were given out at Pokémon The Park circus-like theme parks between March 18th and September 25th 2005.
+
+The front of each card promotes attractions at the Poképark. The back, however, acts as a puzzle, whereby aligning multiple cards together will form a large picture made up of various different Pokémon, which ends up looking like this:
+
+![A cropped version of the full image](https://i.imgur.com/JZ0ar1y.jpg)
+
+In total there are only 9 cards in this set. If anyone knows why they start at 076, I'd love to know.
+
+Below is a representation of how each card fits together to form the above image. You'll notice that not all of the cards are fully contained within the image; that's because the image above has been slightly cropped.
+
+![How the card backs join together](https://i.imgur.com/eMG862j.png)
+
+---
+
+## Adventure Card 076
+
+|Pokémon on Front
+|:-:|
+|Lugia
+|Marill
+|Minun
+|Pichu
+|Plusle
+|Psyduck
+|Skitty
+|Wailmer
+
+## Adventure Card 077
+
+|Pokémon on Front
+|:-:|
+|Entei
+|Ho-oh
+|Raikou
+|Suicune
+
+## Adventure Card 078
+
+|Pokémon on Front
+|:-:|
+|Rayquaza
+|Deoxys (Normal)
+|Deoxys (Attack)
+|Deoxys (Defense)
+|Deoxys (Speed)
+
+## Adventure Card 079
+
+⚠️  Information required.
+
+## Adventure Card 080
+
+⚠️  Information required.
+
+## Adventure Card 081
+
+|Pokémon on Front
+|:-:|
+|Blastoise
+|Castform (Normal)
+|Chikorita
+|Corphish
+|Cyndaquil
+|Hoppip
+|Lapras
+|Marill
+|Mudkip
+|Phanpy
+|Totodile
+|Slowpoke
+|Sudowoodo
+|Surskit
+
+## Adventure Card 082
+
+|Pokémon on Front
+|:-:|
+|Munchlax
+|Pichu
+|Wynaut
+
+## Adventure Card 083
+
+|Pokémon on Front
+|:-:|
+|Groudon
+|Kyogre
+
+## Adventure Card 084
+
+⚠️  Information required.
