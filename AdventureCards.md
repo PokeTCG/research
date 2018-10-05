@@ -4,7 +4,7 @@ This document sets out to list all Japanese *Adventure Cards*.
 
 ---
 
-## Unknown
+## Unknown (?-?)
 
 ⚠️  Information required.
 
@@ -84,7 +84,7 @@ Features Trecko.
 
 ---
 
-## Poképark (076-084)
+## 2005 - Poképark (076-084)
 These were given out at Pokémon The Park circus-like theme parks between March 18th and September 25th 2005.
 
 The front of each card promotes attractions at the Poképark. The back, however, acts as a puzzle, whereby aligning multiple cards together will form a large picture made up of various different Pokémon, which ends up looking like this:
@@ -100,7 +100,7 @@ Below is a representation of how each card fits together to form the above image
 ### Adventure Card 076
 くるくるシップ (Spinning Ship)
 
-![https://i.imgur.com/TNElcL2.png](https://i.imgur.com/TNElcL2.png)
+![https://i.imgur.com/TNElcL2.png](https://i.imgur.com/TNElcL2m.png)
 
 |Pokémon on Front
 |:-:|
@@ -115,7 +115,7 @@ Below is a representation of how each card fits together to form the above image
 
 ### Adventure Card 077
 
-![https://i.imgur.com/CvfwKXv.png](https://i.imgur.com/CvfwKXv.png)
+![https://i.imgur.com/CvfwKXv.png](https://i.imgur.com/CvfwKXvm.png)
 
 |Pokémon on Front
 |:-:|
@@ -126,7 +126,7 @@ Below is a representation of how each card fits together to form the above image
 
 ### Adventure Card 078
 
-![https://i.imgur.com/tbBizu9.png](https://i.imgur.com/tbBizu9.png)
+![https://i.imgur.com/tbBizu9.png](https://i.imgur.com/tbBizu9m.png)
 
 |Pokémon on Front
 |:-:|
@@ -146,7 +146,7 @@ Below is a representation of how each card fits together to form the above image
 
 ### Adventure Card 081
 
-![https://i.imgur.com/kwlw6k7.png](https://i.imgur.com/kwlw6k7.png)
+![https://i.imgur.com/kwlw6k7.png](https://i.imgur.com/kwlw6k7m.png)
 
 |Pokémon on Front
 |:-:|
@@ -170,7 +170,7 @@ Below is a representation of how each card fits together to form the above image
 
 わんぱくトレイン (? Train)
 
-![https://i.imgur.com/MaaRaTe.png](https://i.imgur.com/MaaRaTe.png)
+![https://i.imgur.com/MaaRaTe.png](https://i.imgur.com/MaaRaTem.png)
 
 |Pokémon on Front
 |:-:|
@@ -182,7 +182,7 @@ Below is a representation of how each card fits together to form the above image
 
 クラッシュカーバトル (Crash Car Battle)
 
-![https://i.imgur.com/qfTBixT.png](https://i.imgur.com/qfTBixT.png)
+![https://i.imgur.com/qfTBixT.png](https://i.imgur.com/qfTBixTm.png)
 
 |Pokémon on Front
 |:-:|
@@ -191,9 +191,57 @@ Below is a representation of how each card fits together to form the above image
 
 ### Adventure Card 084
 
-![https://i.imgur.com/EMpiNGX.png](https://i.imgur.com/EMpiNGX.png)
+![https://i.imgur.com/EMpiNGX.png](https://i.imgur.com/EMpiNGXm.png)
 
 |Pokémon on Front
 |:-:|
 |Celebi
 |Jirachi
+
+---
+
+## 2005 - Lucario and the Mystery of Mew (085-093)
+
+Similar to the Poképark cards above, this set also features 9 cards whose backgrounds make up the movie poster for Lucario and the Mystery of Mew. Note that the images below are not the exact images the cards make up, as I was unable to find the exact poster.
+
+![https://i.imgur.com/tGHbdIy.jpg](https://i.imgur.com/tGHbdIy.jpg)
+
+The cards can be arranged together in the following way:
+
+![https://i.imgur.com/o7MdHxX.png](https://i.imgur.com/EHY7m6g.png)
+
+### Adventure Card 085 - (1) ?
+
+![https://i.imgur.com/zU89iv7.png](https://i.imgur.com/zU89iv7m.png)
+
+### Adventure Card 086 - (2) ?
+
+⚠️  Information required.
+
+### Adventure Card 087 - (3) Sneasel
+
+![https://i.imgur.com/kMuy3h1.png](https://i.imgur.com/kMuy3h1m.png)
+
+### Adventure Card 088 - (4) ?
+
+⚠️  Information required.
+
+### Adventure Card 089 - (5) Bonsly
+
+![https://i.imgur.com/n8ojR5n.png](https://i.imgur.com/n8ojR5nm.png)
+
+### Adventure Card 090 - (6) ?
+
+![https://i.imgur.com/7nSfj64.png](https://i.imgur.com/7nSfj64m.png)
+
+### Adventure Card 091 - (7) ?
+
+⚠️  Information required.
+
+### Adventure Card 092 - (8) ?
+
+⚠️  Information required.
+
+### Adventure Card 093 - (9) ?
+
+⚠️  Information required.
