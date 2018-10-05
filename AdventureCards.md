@@ -84,6 +84,54 @@ Features Trecko.
 
 ---
 
+## 2004 - Destiny Deoxys (067-075)
+
+This is a set of 9 cards whose background make up the poster for the Destiny Deoxys movie:
+
+![https://i.imgur.com/9qve7U3.jpg](https://i.imgur.com/9qve7U3.jpg)
+
+The cards can be arranged in the following way to create the background:
+
+![https://i.imgur.com/4pJnhOg.png](https://i.imgur.com/4pJnhOg.png)
+
+### Adventure Card 067 - ?
+
+⚠️  Information required.
+
+### Adventure Card 068 - Blaziken & Blastoise
+
+![https://i.imgur.com/pu8qPoD.png](https://i.imgur.com/pu8qPoDm.png)
+
+### Adventure Card 069 - Torkoal & Pikachu
+
+![https://i.imgur.com/7vbBdRC.png](https://i.imgur.com/7vbBdRCm.png)
+
+### Adventure Card 070 - Deoxys (Normal)
+
+![https://i.imgur.com/utTmnjD.png](https://i.imgur.com/utTmnjDm.png)
+
+### Adventure Card 071 - ?
+
+⚠️  Information required.
+
+### Adventure Card 072 - Minun & Plusle
+
+![https://i.imgur.com/WwYQjmd.png](https://i.imgur.com/WwYQjmdm.png)
+
+### Adventure Card 073 - Rayquaza
+
+![https://i.imgur.com/NcGgXC3.png](https://i.imgur.com/NcGgXC3m.png)
+
+### Adventure Card 074 - Deoxys (Attack)
+
+![https://i.imgur.com/5chNdtw.png](https://i.imgur.com/5chNdtwm.png)
+
+### Adventure Card 075 - Deoxys (Defense)
+
+![https://i.imgur.com/2lwLAdU.png](https://i.imgur.com/2lwLAdUm.png)
+
+---
+
 ## 2005 - Poképark (076-084)
 These were given out at Pokémon The Park circus-like theme parks between March 18th and September 25th 2005.
 
