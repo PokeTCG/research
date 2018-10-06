@@ -8,7 +8,7 @@ Below are pictures of the front and back of a pack of gum with the booster pack 
 
 ![Gum Card Pack Back](/images/GumCards_GBA/20101002235323.jpg)
 
-The initial release of this set is unknown, but is likely to have happened in early-mid 2002. The initial release added the first 85 cards to this set, followed by a second release in November 2002 which introduced cards 85 to 101; a third release in May 2004 which introduced cards 102 to 151; and the final fourth release in March 2005 which introduced cards 152 to 210.
+The initial release of this set is unknown, but is likely to have happened in early-mid 2002. The initial release added the first 85 cards to this set, followed by a second release in November 2002 which introduced cards 86 to 102; a third release in May 2004 which introduced cards 103 to 151; and the final fourth release in March 2005 which introduced cards 152 to 210.
 
 The majority of the card images in this document are from [Viola 9338's Japanese Geocities list](http://www.geocities.jp/viola_9338/card-gum1.html).
 
@@ -16,842 +16,856 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ---
 
-## 001 キモリ (Treecko)
+## Release 1 - Early-mid 2002
+
+### 001 キモリ (Treecko (vs. Yanma))
 
 ![キモリ (Treecko)](/images/GumCards_GBA/001.jpg)
 
-## 002 ジュプトル (Grovyle)
+### 002 ジュプトル (Grovyle (vs. Whismur))
 
 ![ジュプトル (Grovyle)](/images/GumCards_GBA/002.jpg)
 
-## 003 ジュカイン (Sceptile)
+### 003 ジュカイン (Sceptile (vs. Nosepass))
 
 ![ジュカイン (Sceptile)](/images/GumCards_GBA/003.jpg)
 
-## 004 アチャモ (Torchic)
+### 004 アチャモ (Torchic (vs. Totodile))
 
 ![アチャモ (Torchic)](/images/GumCards_GBA/004.jpg)
 
-## 005 ワカシャモ (Combusken)
+### 005 ワカシャモ (Combusken (vs. Treecko))
 
 ![ワカシャモ (Combusken)](/images/GumCards_GBA/005.jpg)
 
-## 006 バシャーモ (Blaziken)
+### 006 バシャーモ (Blaziken (vs. Feraligatr))
 
 ![バシャーモ (Blaziken)](/images/GumCards_GBA/006.jpg)
 
-## 007 ミズゴロウ (Mudkip)
+### 007 ミズゴロウ (Mudkip (vs. Wooper))
 
 ![ミズゴロウ (Mudkip)](/images/GumCards_GBA/007.jpg)
 
-## 008 ヌマクロー (Marshtomp)
+### 008 ヌマクロー (Marshtomp (vs. Combusken))
 
 ![ヌマクロー (Marshtomp)](/images/GumCards_GBA/008.jpg)
 
-## 009 ラグラージ (Swampert)
+### 009 ラグラージ (Swampert (vs. Blaziken))
 
 ![ラグラージ (Swampert)](/images/GumCards_GBA/009.jpg)
 
-## 010 ポチエナ (Poochyena)
+### 010 ポチエナ (Poochyena (vs. Sentret))
 
 ![ポチエナ (Poochyena)](/images/GumCards_GBA/010.jpg)
 
-## 011 グラエナ (Mightyena)
+### 011 グラエナ (Mightyena (vs. Duskull))
 
 ![グラエナ (Mightyena)](/images/GumCards_GBA/011.jpg)
 
-## 012 ジグザグマ (Zigzagoon)
+### 012 ジグザグマ (Zigzagoon (vs. Pichu))
 
 ![ジグザグマ (Zigzagoon)](/images/GumCards_GBA/012.jpg)
 
-## 013 マッスグマ (Linoone)
+### 013 マッスグマ (Linoone (vs. Electrike))
 
 ![マッスグマ (Linoone)](/images/GumCards_GBA/013.jpg)
 
-## 014 ケムッソ (Wurmple)
+### 014 ケムッソ (Wurmple (vs. Ralts))
 
 ![ケムッソ (Wurmple)](/images/GumCards_GBA/014.jpg)
 
-## 015 カラサリス (Silcoon)
+### 015 カラサリス (Silcoon (vs. Swablu))
 
 ![カラサリス (Silcoon)](/images/GumCards_GBA/015.jpg)
 
-## 016 アゲハント (Beautifly)
+### 016 アゲハント (Beautifly (vs. Seedot))
 
 ![アゲハント (Beautifly)](/images/GumCards_GBA/016.jpg)
 
-## 017 マユルド (Cascoon)
+### 017 マユルド (Cascoon (vs. Treecko))
 
 ![マユルド (Cascoon)](/images/GumCards_GBA/017.jpg)
 
-## 018 ドクケイル (Dustox)
+### 018 ドクケイル (Dustox (vs. Skitty))
 
 ![ドクケイル (Dustox)](/images/GumCards_GBA/018.jpg)
 
-## 019 ハスボー (Lotad)
+### 019 ハスボー (Lotad (vs. Torchic))
 
 ![ハスボー (Lotad)](/images/GumCards_GBA/019.jpg)
 
-## 020 ハスブレロ (Lombre)
+### 020 ハスブレロ (Lombre (vs. Torkoal))
 
 ![ハスブレロ (Lombre)](/images/GumCards_GBA/020.jpg)
 
-## 021 ルンパッパ (Ludicolo)
+### 021 ルンパッパ (Ludicolo (vs. Nosepass))
 
 ![ルンパッパ (Ludicolo)](/images/GumCards_GBA/021.jpg)
 
-## 022 タネボー (Seedot)
+### 022 タネボー (Seedot (vs. Taillow))
 
 ![タネボー (Seedot)](/images/GumCards_GBA/022.jpg)
 
-## 023 コノハナ (Nuzleaf)
+### 023 コノハナ (Nuzleaf (vs. Makuhita))
 
 ![コノハナ (Nuzleaf)](/images/GumCards_GBA/023.jpg)
 
-## 024 ダーテング (Shiftry)
+### 024 ダーテング (Shiftry (vs. Exploud))
 
 ![ダーテング (Shiftry)](/images/GumCards_GBA/024.jpg)
 
-## 025 スバメ (Taillow)
+### 025 スバメ (Taillow (vs. Natu))
 
 ![スバメ (Taillow)](/images/GumCards_GBA/025.jpg)
 
-## 026 オオスバメ (Swellow)
+### 026 オオスバメ (Swellow (vs. Swablu))
 
 ![オオスバメ (Swellow)](/images/GumCards_GBA/026.jpg)
 
-## 027 キャモメ (Wingull)
+### 027 キャモメ (Wingull (vs. Azurill))
 
 ![キャモメ (Wingull)](/images/GumCards_GBA/027.jpg)
 
-## 028 ペリッパー (Pelipper)
+### 028 ペリッパー (Pelipper (vs. Heracross))
 
 ![ペリッパー (Pelipper)](/images/GumCards_GBA/028.jpg)
 
-## 029 ラルトス (Ralts)
+### 029 ラルトス (Ralts (vs. Poochyena))
 
 ![ラルトス (Ralts)](/images/GumCards_GBA/029.jpg)
 
-## 030 キルリア (Kirlia)
+### 030 キルリア (Kirlia (vs. Linoone))
 
 ![キルリア (Kirlia)](/images/GumCards_GBA/030.jpg)
 
-## 031 サーナイト (Gardevoir)
+### 031 サーナイト (Gardevoir (vs. Manectric))
 
 ![サーナイト (Gardevoir)](/images/GumCards_GBA/031.jpg)
 
-## 032 アメタマ (Surskit)
+### 032 アメタマ (Surskit (vs. Torchic))
 
 ![アメタマ (Surskit)](/images/GumCards_GBA/032.jpg)
 
-## 033 アメモース (Masquerain)
+### 033 アメモース (Masquerain (vs. Vibrava))
 
 ![アメモース (Masquerain)](/images/GumCards_GBA/033.jpg)
 
-## 034 キノココ (Shroomish)
+### 034 キノココ (Shroomish (vs. Cleffa))
 
 ![キノココ (Shroomish)](/images/GumCards_GBA/034.jpg)
 
-## 035 キノガッサ (Breloom)
+### 035 キノガッサ (Breloom (vs. Spoink))
 
 ![キノガッサ (Breloom)](/images/GumCards_GBA/035.jpg)
 
-## 036 ナマケロ (Slakoth)
+### 036 ナマケロ (Slakoth (vs. Nincada))
 
 ![ナマケロ (Slakoth)](/images/GumCards_GBA/036.jpg)
 
-## 037 ヤルキモノ (Vigoroth)
+### 037 ヤルキモノ (Vigoroth (vs. Mightyena))
 
 ![ヤルキモノ (Vigoroth)](/images/GumCards_GBA/037.jpg)
 
-## 038 ケッキング (Slaking)
+### 038 ケッキング (Slaking (vs. Aggron))
 
 ![ケッキング (Slaking)](/images/GumCards_GBA/038.jpg)
 
-## 039 ケーシィ (Abra)
+### 039 ケーシィ (Abra)
 
 ⚠️  Information required.
 
-## 040 ユンゲラー (Kadabra)
+### 040 ユンゲラー (Kadabra (vs. Linoone))
 
 ![ユンゲラー (Kadabra)](/images/GumCards_GBA/040.jpg)
 
-## 041 フーディン (Alakazam)
+### 041 フーディン (Alakazam (vs. Exploud))
 
 ![フーディン (Alakazam)](/images/GumCards_GBA/041.jpg)
 
-## 042 ツチニン (Nincada)
+### 042 ツチニン (Nincada (vs. Pikachu))
 
 ![ツチニン (Nincada)](/images/GumCards_GBA/042.jpg)
 
-## 043 テッカニン (Ninjask)
+### 043 テッカニン (Ninjask (vs. Mawile))
 
 ![テッカニン (Ninjask)](/images/GumCards_GBA/043.jpg)
 
-## 044 ヌケニン (Shedinja)
+### 044 ヌケニン (Shedinja (vs. Chimecho))
 
 ![ヌケニン (Shedinja)](/images/GumCards_GBA/044.jpg)
 
-## 045 ゴニョニョ (Whismur)
+### 045 ゴニョニョ (Whismur (vs. Pichu))
 
 ![ゴニョニョ (Whismur)](/images/GumCards_GBA/045.jpg)
 
-## 046 ドゴーム (Loudred)
+### 046 ドゴーム (Loudred (vs. Skitty))
 
 ![ドゴーム (Loudred)](/images/GumCards_GBA/046.jpg)
 
-## 047 バクオング (Exploud)
+### 047 バクオング (Exploud (vs. Shiftry))
 
 ![バクオング (Exploud)](/images/GumCards_GBA/047.jpg)
 
-## 048 マクノシタ (Makuhita)
+### 048 マクノシタ (Makuhita (vs. Aron))
 
 ![マクノシタ (Makuhita)](/images/GumCards_GBA/048.jpg)
 
-## 049 ハリテヤマ (Hariyama)
+### 049 ハリテヤマ (Hariyama (vs. Lairon))
 
 ![ハリテヤマ (Hariyama)](/images/GumCards_GBA/049.jpg)
 
-## 050 トサキント (Goldeen)
+### 050 トサキント (Goldeen (vs. Wingull))
 
 ![トサキント (Goldeen)](/images/GumCards_GBA/050.jpg)
 
-## 051 アズマオウ (Seaking)
+### 051 アズマオウ (Seaking (vs. Carvanha))
 
 ![アズマオウ (Seaking)](/images/GumCards_GBA/051.jpg)
 
-## 052 コイキング (Magikarp)
+### 052 コイキング (Magikarp (vs. Barboach))
 
 ![コイキング (Magikarp)](/images/GumCards_GBA/052.jpg)
 
-## 053 ギャラドス (Gyarados)
+### 053 ギャラドス (Gyarados (vs. Kyogre))
 
 ![ギャラドス (Gyarados)](/images/GumCards_GBA/053.jpg)
 
-## 054 ルリリ (Azurill)
+### 054 ルリリ (Azurill (vs. Cyndaquil))
 
 ![ルリリ (Azurill)](/images/GumCards_GBA/054.jpg)
 
-## 055 マリル (Marill)
+### 055 マリル (Marill (vs. Torkoal))
 
 ![マリル (Marill)](/images/GumCards_GBA/055.jpg)
 
-## 056 マリルリ (Azumarill)
+### 056 マリルリ (Azumarill (vs. Torchic))
 
 ![マリルリ (Azumarill)](/images/GumCards_GBA/056.jpg)
 
-## 057 イシツブテ (Geodude)
+### 057 イシツブテ (Geodude (vs. Minun))
 
 ![イシツブテ (Geodude)](/images/GumCards_GBA/057.jpg)
 
-## 058 ゴローン (Graveler)
+### 058 ゴローン (Graveler (vs. Makuhita))
 
 ![ゴローン (Graveler)](/images/GumCards_GBA/058.jpg)
 
-## 059 ゴローニャ (Golem)
+### 059 ゴローニャ (Golem (vs. Claydol))
 
 ![ゴローニャ (Golem)](/images/GumCards_GBA/059.jpg)
 
-## 060 ノズパス (Nosepass)
+### 060 ノズパス (Nosepass (vs. Nincada))
 
 ![ノズパス (Nosepass)](/images/GumCards_GBA/060.jpg)
 
-## 061 エネコ (Skitty)
+### 061 エネコ (Skitty (vs. Zigzagoon))
 
 ![エネコ (Skitty)](/images/GumCards_GBA/061.jpg)
 
-## 062 エネコロロ (Delcatty)
+### 062 エネコロロ (Delcatty (vs. Mightyena))
 
 ![エネコロロ (Delcatty)](/images/GumCards_GBA/062.jpg)
 
-## 063 ズバット (Zubat)
+### 063 ズバット (Zubat (vs. Poochyena))
 
 ![ズバット (Zubat)](/images/GumCards_GBA/063.jpg)
 
-## 064 ゴルバット (Golbat)
+### 064 ゴルバット (Golbat (vs. Absol))
 
 ![ゴルバット (Golbat)](/images/GumCards_GBA/064.jpg)
 
-## 065 クロバット (Crobat)
+### 065 クロバット (Crobat (vs. Whismur))
 
 ![クロバット (Crobat)](/images/GumCards_GBA/065.jpg)
 
-## 066 メノクラゲ (Tentacool)
+### 066 メノクラゲ (Tentacool (vs. Tailow))
 
 ![メノクラゲ (Tentacool)](/images/GumCards_GBA/066.jpg)
 
-## 067 ドククラゲ (Tentacruel)
+### 067 ドククラゲ (Tentacruel (vs. Pelipper))
 
 ![ドククラゲ (Tentacruel)](/images/GumCards_GBA/067.jpg)
 
-## 068 ヤミラミ (Sableye)
+### 068 ヤミラミ (Sableye (vs. Ralts))
 
 ![ヤミラミ (Sableye)](/images/GumCards_GBA/068.jpg)
 
-## 069 クチート (Mawile)
+### 069 クチート (Mawile (vs. Gulpin))
 
 ![クチート (Mawile)](/images/GumCards_GBA/069.jpg)
 
-## 070 ココドラ (Aron)
+### 070 ココドラ (Aron (vs. Wurmple))
 
 ![ココドラ (Aron)](/images/GumCards_GBA/070.jpg)
 
-## 071 コドラ (Lairon)
+### 071 コドラ (Lairon (vs. Hariyama))
 
 ![コドラ (Lairon)](/images/GumCards_GBA/071.jpg)
 
-## 072 ボスゴドラ (Aggron)
+### 072 ボスゴドラ (Aggron (vs. Exploud))
 
 ![ボスゴドラ (Aggron)](/images/GumCards_GBA/072.jpg)
 
-## 073 ワンリキー (Machop)
+### 073 ワンリキー (Machop (vs. Nuzleaf))
 
 ![ワンリキー (Machop)](/images/GumCards_GBA/073.jpg)
 
-## 074 ゴーリキー (Machoke)
+### 074 ゴーリキー (Machoke (vs. Breloom))
 
 ![ゴーリキー (Machoke)](/images/GumCards_GBA/074.jpg)
 
-## 075 カイリキー (Machamp)
+### 075 カイリキー (Machamp (vs. Medicham))
 
 ![カイリキー (Machamp)](/images/GumCards_GBA/075.jpg)
 
-## 076 アサナン (Meditite)
+### 076 アサナン (Meditite (vs. Aron))
 
 ![アサナン (Meditite)](/images/GumCards_GBA/076.jpg)
 
-## 077 チャーレム (Medicham)
+### 077 チャーレム (Medicham (vs. Absol))
 
 ![チャーレム (Medicham)](/images/GumCards_GBA/077.jpg)
 
-## 078 ラクライ (Electrike)
+### 078 ラクライ (Electrike (vs. Mudkip))
 
 ![ラクライ (Electrike)](/images/GumCards_GBA/078.jpg)
 
-## 079 ライボルト (Manectric)
+### 079 ライボルト (Manectric (vs. Altaria))
 
 ![ライボルト (Manectric)](/images/GumCards_GBA/079.jpg)
 
-## 080 プラスル (Plusle)
+### 080 プラスル (Plusle (vs. Castform (Normal)))
 
 ![プラスル (Plusle)](/images/GumCards_GBA/080.jpg)
 
-## 081 マイナン (Minun)
+### 081 マイナン (Minun (vs. Wynaut))
 
 ![マイナン (Minun)](/images/GumCards_GBA/081.jpg)
 
-## 082 コイル (Magnemite)
+### 082 コイル (Magnemite (vs. Mudkip))
 
 ![コイル (Magnemite)](/images/GumCards_GBA/082.jpg)
 
-## 083 レアコイル (Magneton)
+### 083 レアコイル (Magneton (vs. Lombre))
 
 ![レアコイル (Magneton)](/images/GumCards_GBA/083.jpg)
 
-## 084 ビリリダマ (Voltorb)
+### 084 ビリリダマ (Voltorb (vs. Spoink))
 
 ![ビリリダマ (Voltorb)](/images/GumCards_GBA/084.jpg)
 
-## 085 マルマイン (Electrode)
+### 085 マルマイン (Electrode (vs. Loudred))
 
 ![マルマイン (Electrode)](/images/GumCards_GBA/085.jpg)
 
-## 086 バルビート (Volbeat)
+---
+
+## Release 2 - November 2002
+
+### 086 バルビート (Volbeat (vs. Chikorita))
 
 ![バルビート (Volbeat)](/images/GumCards_GBA/086.jpg)
 
-## 087 イルミーゼ (Illumise)
+### 087 イルミーゼ (Illumise (vs. Volbeat))
 
 ![イルミーゼ (Illumise)](/images/GumCards_GBA/087.jpg)
 
-## 088 ナゾノクサ (Oddish)
+### 088 ナゾノクサ (Oddish (vs. Castform (Normal)))
 
 ![ナゾノクサ (Oddish)](/images/GumCards_GBA/088.jpg)
 
-## 089 クサイハナ (Gloom)
+### 089 クサイハナ (Gloom (vs. Beautifly))
 
 ![クサイハナ (Gloom)](/images/GumCards_GBA/089.jpg)
 
-## 090 ラフレシア (Vileplume)
+### 090 ラフレシア (Vileplume (vs. Zangoose))
 
 ![ラフレシア (Vileplume)](/images/GumCards_GBA/090.jpg)
 
-## 091 キレイハナ (Bellossom)
+### 091 キレイハナ (Bellossom (vs. Minun))
 
 ![キレイハナ (Bellossom)](/images/GumCards_GBA/091.jpg)
 
-## 092 ドードー (Doduo)
+### 092 ドードー (Doduo (vs. Combusken))
 
 ![ドードー (Doduo)](/images/GumCards_GBA/092.jpg)
 
-## 093 ドードリオ (Dodrio)
+### 093 ドードリオ (Dodrio (vs. Vigoroth))
 
 ![ドードリオ (Dodrio)](/images/GumCards_GBA/093.jpg)
 
-## 094 ロゼリア (Roselia)
+### 094 ロゼリア (Roselia (vs. Poochyena))
 
 ![ロゼリア (Roselia)](/images/GumCards_GBA/094.jpg)
 
-## 095 ゴクリン (Gulpin)
+### 095 ゴクリン (Gulpin (vs. Plusle))
 
 ![ゴクリン (Gulpin)](/images/GumCards_GBA/095.jpg)
 
-## 096 マルノーム (Swalot)
+### 096 マルノーム (Swalot (vs. Loudred))
 
 ![マルノーム (Swalot)](/images/GumCards_GBA/096.jpg)
 
-## 097 キバニア (Carvanha)
+### 097 キバニア (Carvanha (vs. Corphish))
 
 ![キバニア (Carvanha)](/images/GumCards_GBA/097.jpg)
 
-## 098 サメハダー (Sharpedo)
+### 098 サメハダー (Sharpedo (vs. Forretress))
 
 ![サメハダー (Sharpedo)](/images/GumCards_GBA/098.jpg)
 
-## 099 ホエルコ (Wailmer)
+### 099 ホエルコ (Wailmer (vs. Charizard))
 
 ![ホエルコ (Wailmer)](/images/GumCards_GBA/099.jpg)
 
-## 100 ホエルオー (Wailord)
+### 100 ホエルオー (Wailord (vs. Rayquaza))
 
 ![ホエルオー (Wailord)](/images/GumCards_GBA/100.jpg)
 
-## 101 ドンメル (Numel)
+### 101 ドンメル (Numel (vs. Grovyle))
 
 ![ドンメル (Numel)](/images/GumCards_GBA/101.jpg)
 
-## 102 バクーダ (Camerupt)
+### 102 バクーダ (Camerupt (vs. Cacturne))
 
 ![バクーダ (Camerupt)](/images/GumCards_GBA/102.jpg)
 
-## 103 マグマッグ (Slugma)
+---
+
+## Release 3 - May 2004
+
+### 103 マグマッグ (Slugma (vs. Roselia))
 
 ![マグマッグ (Slugma)](/images/GumCards_GBA/103.jpg)
 
-## 104 マグカルゴ (Magcargo)
+### 104 マグカルゴ (Magcargo (vs. Grovyle))
 
 ![マグカルゴ (Magcargo)](/images/GumCards_GBA/104.jpg)
 
-## 105 コータス (Torkoal)
+### 105 コータス (Torkoal (vs. Roselia))
 
 ![コータス (Torkoal)](/images/GumCards_GBA/105.jpg)
 
-## 106 ?
+### 106 ?
 
 ⚠️  Information required.
 
-## 107 ?
+### 107 ?
 
 ⚠️  Information required.
 
-## 108 ドガース (Koffing)
+### 108 ドガース (Koffing (vs. ?))
 
 ⚠️  Information required.
 
-## 109 マタドガス (Weezing)
+### 109 マタドガス (Weezing (vs. Beautifly))
 
 ![マタドガス (Weezing)](/images/GumCards_GBA/109.jpg)
 
-## 110 バネブー (Spoink)
+### 110 バネブー (Spoink (vs. Azumarill))
 
 ![バネブー (Spoink)](/images/GumCards_GBA/110.jpg)
 
-## 111 ブーピッグ (Grumpig)
+### 111 ブーピッグ (Grumpig (vs. Nuzleaf))
 
 ![ブーピッグ (Grumpig)](/images/GumCards_GBA/111.jpg)
 
-## 112 サンド (Sandshrew)
+### 112 サンド (Sandshrew (vs. Baltoy))
 
 ![サンド (Sandshrew)](/images/GumCards_GBA/112.jpg)
 
-## 113 サンドパン (Sandslash)
+### 113 サンドパン (Sandslash (vs. ?))
 
 ⚠️  Information required.
 
-## 114 パッチール (Spinda)
+### 114 パッチール (Spinda (vs. Delcatty))
 
 ![パッチール (Spinda)](/images/GumCards_GBA/114.jpg)
 
-## 115 ?
+### 115 ?
 
 ⚠️  Information required.
 
-## 116 ナックラー (Trapinch)
+### 116 ナックラー (Trapinch (vs. Roselia))
 
 ![ナックラー (Trapinch)](/images/GumCards_GBA/116.jpg)
 
-## 117 ビブラーバ (Vibrava)
+### 117 ビブラーバ (Vibrava (vs. Altaria))
 
 ![ビブラーバ (Vibrava)](/images/GumCards_GBA/117.jpg)
 
-## 118 フライゴン (Flygon)
+### 118 フライゴン (Flygon (vs. Salamence))
 
 ![フライゴン (Flygon)](/images/GumCards_GBA/118.jpg)
 
-## 119 サボネア (Cacnea)
+### 119 サボネア (Cacnea (vs. Aron))
 
 ![サボネア (Cacnea)](/images/GumCards_GBA/119.jpg)
 
-## 120 ノクタス (Cacturne)
+### 120 ノクタス (Cacturne (vs. Armaldo))
 
 ![ノクタス (Cacturne)](/images/GumCards_GBA/120.jpg)
 
-## 121 チルット (Swablu)
+### 121 チルット (Swablu (vs. Plusle))
 
 ![チルット (Swablu)](/images/GumCards_GBA/121.jpg)
 
-## 122 チルタリス (Altaria)
+### 122 チルタリス (Altaria (vs. Masquerain))
 
 ![チルタリス (Altaria)](/images/GumCards_GBA/122.jpg)
 
-## 123 ザングース (Zangoose)
+### 123 ザングース (Zangoose (vs. Seviper))
 
 ![ザングース (Zangoose)](/images/GumCards_GBA/123.jpg)
 
-## 124 ハブネーク (Seviper)
+### 124 ハブネーク (Seviper (vs. Sceptile))
 
 ![ハブネーク (Seviper)](/images/GumCards_GBA/124.jpg)
 
-## 125 ルナトーン (Lunatone)
+### 125 ルナトーン (Lunatone (vs. Trapinch))
 
 ![ルナトーン (Lunatone)](/images/GumCards_GBA/125.jpg)
 
-## 126 ソルロック (Solrock)
+### 126 ソルロック (Solrock (vs. Vibrava))
 
 ![ソルロック (Solrock)](/images/GumCards_GBA/126.jpg)
 
-## 127 ドジョッチ (Barboach)
+### 127 ドジョッチ (Barboach (vs. Numel))
 
 ![ドジョッチ (Barboach)](/images/GumCards_GBA/127.jpg)
 
-## 128 ナマズン (Whiscash)
+### 128 ナマズン (Whiscash (vs. Marshtomp))
 
 ![ナマズン (Whiscash)](/images/GumCards_GBA/128.jpg)
 
-## 129 ヘイガニ (Corphish)
+### 129 ヘイガニ (Corphish (vs. Mudkip))
 
 ![ヘイガニ (Corphish)](/images/GumCards_GBA/129.jpg)
 
-## 130 シザリガー (Crawdaunt)
+### 130 シザリガー (Crawdaunt (vs. Lileep))
 
 ![シザリガー (Crawdaunt)](/images/GumCards_GBA/130.jpg)
 
-## 131 ヤジロン (Baltoy)
+### 131 ヤジロン (Baltoy (vs. Spinda))
 
 ![ヤジロン (Baltoy)](/images/GumCards_GBA/131.jpg)
 
-## 132 ネンドール (Claydol)
+### 132 ネンドール (Claydol (vs. ?))
 
 ![ネンドール (Claydol)](/images/GumCards_GBA/132.jpg)
 
-## 133 リリーラ (Lileep)
+### 133 リリーラ (Lileep (vs. Corphish))
 
 ![リリーラ (Lileep)](/images/GumCards_GBA/133.jpg)
 
-## 134 ユレイドル (Cradily)
+### 134 ユレイドル (Cradily (vs. Shedinja))
 
 ![ユレイドル (Cradily)](/images/GumCards_GBA/134.jpg)
 
-## 135 アノプス (Anorith)
+### 135 アノプス (Anorith (vs. Cacnea))
 
 ![アノプス (Anorith)](/images/GumCards_GBA/135.jpg)
 
-## 136 アーマルド (Armaldo)
+### 136 アーマルド (Armaldo (vs. ?))
 
 ⚠️  Information required.
 
-## 137 ププリン (Igglybuff)
+### 137 ププリン (Igglybuff (vs. Sableye))
 
 ![ププリン (Igglybuff)](/images/GumCards_GBA/137.jpg)
 
-## 138 プリン (Jigglypuff)
+### 138 プリン (Jigglypuff (vs. ?))
 
 ⚠️  Information required.
 
-## 139 プクリン (Wigglytuff)
+### 139 プクリン (Wigglytuff (vs. ?))
 
 ⚠️  Information required.
 
-## 140 ヒンバス (Feebas)
+### 140 ヒンバス (Feebas (vs. Carvanha))
 
 ![ヒンバス (Feebas)](/images/GumCards_GBA/140.jpg)
 
-## 141 ミロカロス (Milotic)
+### 141 ミロカロス (Milotic (vs. Kyogre))
 
 ![ミロカロス (Milotic)](/images/GumCards_GBA/141.jpg)
 
-## 142 ポワルン (Castform (normal form))
+### 142 ポワルン (Castform (normal form) (vs. Pichu))
 
 ![ポワルン (Castform (normal form))](/images/GumCards_GBA/142.jpg)
 
-## 142 ポワルン (Castform (sunny form))
+### 142 ポワルン (Castform (sunny form) (vs. Treecko))
 
 ![ポワルン (Castform (sunny form))](/images/GumCards_GBA/142a.jpg)
 
-## 142 ポワルン (Castform (rainy form))
+### 142 ポワルン (Castform (rainy form) (vs. Pichu))
 
 ![ポワルン (Castform (rainy form))](/images/GumCards_GBA/142b.jpg)
 
-## 142 ポワルン (Castform (snowy form))
+### 142 ポワルン (Castform (snowy form) (vs. Shroomish))
 
 ![ポワルン (Castform (snowy form))](/images/GumCards_GBA/142c.jpg)
 
-## 143 ?
+### 143 ?
 
 ⚠️  Information required.
 
-## 144 ?
+### 144 ?
 
 ⚠️  Information required.
 
-## 145 カクレオン (Kecleon)
+### 145 カクレオン (Kecleon (vs. Ledyba))
 
 ![カクレオン (Kecleon)](/images/GumCards_GBA/145.jpg)
 
-## 146 カゲボウズ (Shuppet)
+### 146 カゲボウズ (Shuppet (vs. Chimecho))
 
 ![カゲボウズ (Shuppet)](/images/GumCards_GBA/146.jpg)
 
-## 147 ジュペッタ (Banette)
+### 147 ジュペッタ (Banette (vs. Spinda))
 
 ![ジュペッタ (Banette)](/images/GumCards_GBA/147.jpg)
 
-## 148 ヨマワル (Duskull)
+### 148 ヨマワル (Duskull (vs. Larvitar))
 
 ![ヨマワル (Duskull)](/images/GumCards_GBA/148.jpg)
 
-## 149 サマヨール (Dusclops)
+### 149 サマヨール (Dusclops (vs. Illumise))
 
 ![サマヨール (Dusclops)](/images/GumCards_GBA/149.jpg)
 
-## 150 トロピウス (Tropius)
+### 150 トロピウス (Tropius (vs. Gardevoire))
 
 ![トロピウス (Tropius)](/images/GumCards_GBA/150.jpg)
 
-## 151 チリーン (Chimecho)
+### 151 チリーン (Chimecho (vs. Whismur))
 
 ![チリーン (Chimecho)](/images/GumCards_GBA/151.jpg)
 
-## 152 アブソル (Absol)
+---
+
+## Release 4 - March 2005
+
+### 152 アブソル (Absol (vs. Kirlia))
 
 ![アブソル (Absol)](/images/GumCards_GBA/152.jpg)
 
-## 153 ?
+### 153 ?
 
 ⚠️  Information required.
 
-## 154 ?
+### 154 ?
 
 ⚠️  Information required.
 
-## 155 ピチュー (Pichu)
+### 155 ピチュー (Pichu (vs. Azurill))
 
 ![ピチュー (Pichu)](/images/GumCards_GBA/155.jpg)
 
-## 156 ピカチュウ (Pikachu)
+### 156 ピカチュウ (Pikachu (vs. Wynaut))
 
 ![ピカチュウ (Pikachu)](/images/GumCards_GBA/156.jpg)
 
-## 156 ピカチュウ (Pikachu)
+### 156 ピカチュウ (Pikachu (vs. Wynaut))
 
 ![ピカチュウ (Pikachu)](/images/GumCards_GBA/156b.jpg)
 
-## 157 ライチュウ (Raichu)
+### 157 ライチュウ (Raichu (vs. ?))
 
 ⚠️  Information required.
 
-## 158 コダック (Psyduck)
+### 158 コダック (Psyduck (vs. Delcatty))
 
 ![コダック (Psyduck)](/images/GumCards_GBA/158.jpg)
 
-## 159 ゴルダック (Golduck)
+### 159 ゴルダック (Golduck (vs. ?))
 
 ⚠️  Information required.
 
-## 160 ソーナノ (Wynaut)
+### 160 ソーナノ (Wynaut (vs. Phanpy))
 
 ![ソーナノ (Wynaut)](/images/GumCards_GBA/160.jpg)
 
-## 161 ?
+### 161 ?
 
 ⚠️  Information required.
 
-## 162 ?
+### 162 ?
 
 ⚠️  Information required.
 
-## 163 ?
+### 163 ?
 
 ⚠️  Information required.
 
-## 164 ?
+### 164 ?
 
 ⚠️  Information required.
 
-## 165 ゴマゾウ (Phanpy)
+### 165 ゴマゾウ (Phanpy (vs. Electrike))
 
 ![ゴマゾウ (Phanpy)](/images/GumCards_GBA/165.jpg)
 
-## 166 ドンファン (Donphan)
+### 166 ドンファン (Donphan (vs. ?))
 
 ⚠️  Information required.
 
-## 167 カイロス (Pinsir)
+### 167 カイロス (Pinsir (vs. Lairon))
 
 ![カイロス (Pinsir)](/images/GumCards_GBA/167.jpg)
 
-## 168 ?
+### 168 ?
 
 ⚠️  Information required.
 
-## 169 サイホーン (Rhyhorn)
+### 169 サイホーン (Rhyhorn (vs. Mawile))
 
 ![サイホーン (Rhyhorn)](/images/GumCards_GBA/169.jpg)
 
-## 170 サイドン (Rhydon)
+### 170 サイドン (Rhydon (vs. ?))
 
 ⚠️  Information required.
 
-## 171 ユキワラシ (Snorunt)
+### 171 ユキワラシ (Snorunt (vs. Combusken))
 
 ![ユキワラシ (Snorunt)](/images/GumCards_GBA/171.jpg)
 
-## 172 オニゴーリ (Glalie)
+### 172 オニゴーリ (Glalie (vs. Nosepass))
 
 ![オニゴーリ (Glalie)](/images/GumCards_GBA/172.jpg)
 
-## 173 タマザラシ (Spheal)
+### 173 タマザラシ (Spheal (vs. Wynaut))
 
 ![タマザラシ (Spheal)](/images/GumCards_GBA/173.jpg)
 
-## 174 トドグラー (Sealeo)
+### 174 トドグラー (Sealeo (vs. Kecleon))
 
 ![トドグラー (Sealeo)](/images/GumCards_GBA/174.jpg)
 
-## 175 トドゼルガ (Walrein)
+### 175 トドゼルガ (Walrein (vs. Sharpedo))
 
 ![トドゼルガ (Walrein)](/images/GumCards_GBA/175.jpg)
 
-## 176 パールル (Clamperl)
+### 176 パールル (Clamperl (vs. Luvdisk))
 
 ![パールル (Clamperl)](/images/GumCards_GBA/176.jpg)
 
-## 177 ハンテール (Huntail)
+### 177 ハンテール (Huntail (vs. Sharpedo))
 
 ![ハンテール (Huntail)](/images/GumCards_GBA/177.jpg)
 
-## 178 サクラビス (Gorebyss)
+### 178 サクラビス (Gorebyss (vs. Wailmer))
 
 ![サクラビス (Gorebyss)](/images/GumCards_GBA/178.jpg)
 
-## 179 ジーランス (Relicanth)
+### 179 ジーランス (Relicanth (vs. Sharpedo))
 
 ![ジーランス (Relicanth)](/images/GumCards_GBA/179.jpg)
 
-## 180 ?
+### 180 ?
 
 ⚠️  Information required.
 
-## 181 ?
+### 181 ?
 
 ⚠️  Information required.
 
-## 182 ?
+### 182 ?
 
 ⚠️  Information required.
 
-## 183 ラブカス (Luvdisc)
+### 183 ラブカス (Luvdisc (vs. Azurill))
 
 ![ラブカス (Luvdisc)](/images/GumCards_GBA/183.jpg)
 
-## 184 ?
+### 184 ?
 
 ⚠️  Information required.
 
-## 185 ?
+### 185 ?
 
 ⚠️  Information required.
 
-## 186 ?
+### 186 ?
 
 ⚠️  Information required.
 
-## 187 タツベイ (Bagon)
+### 187 タツベイ (Bagon (vs. Seedot))
 
 ![タツベイ (Bagon)](/images/GumCards_GBA/187.jpg)
 
-## 188 コモルー (Shelgon)
+### 188 コモルー (Shelgon (vs. Nuzleaf))
 
 ![コモルー (Shelgon)](/images/GumCards_GBA/188.jpg)
 
-## 189 ボーマンダ (Salamence)
+### 189 ボーマンダ (Salamence (vs. Flygon))
 
 ![ボーマンダ (Salamence)](/images/GumCards_GBA/189.jpg)
 
-## 190 ダンバル (Beldum)
+### 190 ダンバル (Beldum (vs. Ralts))
 
 ![ダンバル (Beldum)](/images/GumCards_GBA/190.jpg)
 
-## 191 メタング (Metang)
+### 191 メタング (Metang (vs. Breloom))
 
 ![メタング (Metang)](/images/GumCards_GBA/191.jpg)
 
-## 192 メタグロス (Metagross)
+### 192 メタグロス (Metagross (vs. Absol))
 
 ![メタグロス (Metagross)](/images/GumCards_GBA/192.jpg)
 
-## 193 レジロック (Regirock)
+### 193 レジロック (Regirock (vs. Sceptile))
 
 ![レジロック (Regirock)](/images/GumCards_GBA/193.jpg)
 
-## 194 レジアイス (Regice)
+### 194 レジアイス (Regice (vs. Blaziken))
 
 ![レジアイス (Regice)](/images/GumCards_GBA/194.jpg)
 
-## 195 レジスチル (Registeel)
+### 195 レジスチル (Registeel (vs. Swampert))
 
 ![レジスチル (Registeel)](/images/GumCards_GBA/195.jpg)
 
-## 196 ラティアス (Latias)
+### 196 ラティアス (Latias (vs. Pelipper))
 
 ![ラティアス (Latias)](/images/GumCards_GBA/196.jpg)
 
-## 197 ラティオス (Latios)
+### 197 ラティオス (Latios (vs. Blaziken))
 
 ![ラティオス (Latios)](/images/GumCards_GBA/197.jpg)
 
-## 198 カイオーガ (Kyogre)
+### 198 カイオーガ (Kyogre (vs. ?))
 
 ![カイオーガ (Kyogre)](/images/GumCards_GBA/198.jpg)
 
-## 199 グラードン (Groudon vs. Latios)
+### 199 グラードン (Groudon (vs. Latios))
 
 ![グラードン (Groudon vs. Latios)](/images/GumCards_GBA/199.jpg)
 
-## 199 グラードン (Groudon vs. Kyogre)
+### 199 グラードン (Groudon (vs. Kyogre))
 
 ![グラードン (Groudon vs. Kyogre)](/images/GumCards_GBA/199b.jpg)
 
-## 200 レックウザ (Rayquaza)
+### 200 レックウザ (Rayquaza (vs. Groudon))
 
 ![レックウザ (Rayquaza)](/images/GumCards_GBA/200.jpg)
 
-## 201 ジラーチ (Jirachi vs. Pichu)
+### 201 ジラーチ (Jirachi (vs. Pichu))
 
 ![ジラーチ (Jirachi vs. Pichu)](/images/GumCards_GBA/201b.jpg)
 
-## 201 ジラーチ (Jirachi vs. Pikachu)
+### 201 ジラーチ (Jirachi (vs. Pikachu))
 
 ![ジラーチ (Jirachi vs. Pikachu)](/images/GumCards_GBA/201.jpg)
 
-## 202 デオキシス (Deoxys (normal form))
+### 202 デオキシス (Deoxys (normal form) (vs. Rayquaza))
 
 ![デオキシス (Deoxys (normal form))](/images/GumCards_GBA/202a.jpg)
 
-## 202 デオキシス (Deoxys (attack form))
+### 202 デオキシス (Deoxys (attack form) (vs. Rayquaza))
 
 ![デオキシス (Deoxys (attack form))](/images/GumCards_GBA/202n.jpg)
 
-## 202 デオキシス (Deoxys (defense form))
+### 202 デオキシス (Deoxys (defense form) (vs. Rayquaza))
 
 ![デオキシス (Deoxys (defense form))](/images/GumCards_GBA/202d.jpg)
