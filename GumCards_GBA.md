@@ -550,7 +550,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ヤジロン (Baltoy)](/images/GumCards_GBA/131.jpg)
 
-### 132 ネンドール (Claydol (vs. ?))
+### 132 ネンドール (Claydol (vs. Tropius))
 
 ![ネンドール (Claydol)](/images/GumCards_GBA/132.jpg)
 
@@ -634,7 +634,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![サマヨール (Dusclops)](/images/GumCards_GBA/149.jpg)
 
-### 150 トロピウス (Tropius (vs. Gardevoire))
+### 150 トロピウス (Tropius (vs. Gardevoir))
 
 ![トロピウス (Tropius)](/images/GumCards_GBA/150.jpg)
 
@@ -746,7 +746,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![トドゼルガ (Walrein)](/images/GumCards_GBA/175.jpg)
 
-### 176 パールル (Clamperl (vs. Luvdisk))
+### 176 パールル (Clamperl (vs. Luvdisc))
 
 ![パールル (Clamperl)](/images/GumCards_GBA/176.jpg)
 
@@ -834,7 +834,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ラティオス (Latios)](/images/GumCards_GBA/197.jpg)
 
-### 198 カイオーガ (Kyogre (vs. ?))
+### 198 カイオーガ (Kyogre (vs. Gyarados))
 
 ![カイオーガ (Kyogre)](/images/GumCards_GBA/198.jpg)
 
@@ -869,3 +869,209 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 ### 202 デオキシス (Deoxys (defense form) (vs. Rayquaza))
 
 ![デオキシス (Deoxys (defense form))](/images/GumCards_GBA/202d.jpg)
+
+---
+
+## Unique Cards Featured
+
+This table lists the number of cards featuring each given Pokémon. *Named* lists the number of instances of cards in that Pokémon's name (attacking), whereas *Vs.* lists the number of cards the Pokémon features in without being named (defending).
+
+|Pokémon|Named|Vs.
+|:--|:--|:--|
+|Abra|1|
+|Absol|1|3
+|Aggron|1|1
+|Alakazam|1|
+|Altaria|1|2
+|Anorith|1|
+|Armaldo|1|1
+|Aron|1|3
+|Azumarill|1|1
+|Azurill|1|3
+|Bagon|1|
+|Baltoy|1|1
+|Banette|1|
+|Barboach|1|1
+|Beautifly|1|2
+|Beldum|1|
+|Bellossom|1|
+|Blaziken|1|3
+|Breloom|1|2
+|Cacnea|1|1
+|Cacturne|1|1
+|Camerupt|1|
+|Carvanha|1|2
+|Cascoon|1|
+|Castform|4|2
+|Charizard||1
+|Chikorita||1
+|Chimecho|1|2
+|Clamperl|1|
+|Claydol|1|1
+|Cleffa||1
+|Combusken|1|3
+|Corphish|1|2
+|Cradily|1|
+|Crawdaunt|1
+|Crobat|1|
+|Cyndaquil||1
+|Delcatty|1|2
+|Deoxys|3|
+|Dodrio|1|
+|Doduo|1|
+|Donphan|1|
+|Dusclops|1|
+|Duskull|1|1
+|Dustox|1|
+|Electrike|1|2
+|Electrode|1|
+|Exploud|1|3
+|Feebas|1|
+|Feraligatr||1
+|Flygon|1|1
+|Forretress||1
+|Gardevoir|1|1
+|Geodude|1|
+|Glalie|1|
+|Gloom|1|
+|Golbat|1|
+|Goldeen|1|
+|Golduck|1|
+|Golem|1|
+|Gorebyss|1|
+|Graveler|1|
+|Groudon|2|1
+|Grovyle|1|2
+|Grumpig|1|
+|Gulpin|1|1
+|Gyarados|1|1
+|Hariyama|1|1
+|Heracross||1
+|Huntail|1|
+|Igglybuff|1|
+|Illumise|1|1
+|Jigglypuff|1|
+|Jirachi|2|
+|Kacleon|1|1
+|Kadabra|1|
+|Kirlia|1|1
+|Koffing|1|
+|Kyogre|1|3
+|Lairon|1|2
+|Larvitar||1
+|Latias|1|
+|Latios|1|1
+|Ledyba||1
+|Lileep|1|1
+|Linoone|1|2
+|Lombre|1|1
+|Lotad|1|
+|Loudred|1|2
+|Ludicolo|1|
+|Lunatone|1|
+|Luvdisc|1|1
+|Machamp|1|
+|Machop|1|
+|Machoke|1|
+|Magcargo|1|
+|Magikarp|1|
+|Magnemite|1|
+|Magneton|1|
+|Makuhita|1|2
+|Manectric|1|1
+|Marill|1|
+|Marshtomp|1|1
+|Masquerain|1|1
+|Mawile|1|2
+|Medicham|1|1
+|Metagross|1|
+|Metang|1|
+|Mightyena|1|2
+|Milotic|1|
+|Minun|1|2
+|Mudkip|1|3
+|Natu||1
+|Nincada|1|2
+|Ninjask|1|
+|Nosepass|1|3
+|Numel|1|1
+|Nuzleaf|1|3
+|Oddish|1|
+|Pelipper|1|2
+|Phanpy|1|1
+|Pichu|1|5
+|Pikachu|2|2
+|Pinsir|1|
+|Plusle|1|2
+|Poochyena|1|3
+|Psyduck|1|
+|Raichu|1|
+|Ralts|1|3
+|Rayquaza|1|4
+|Regice|1|
+|Regirock|1|
+|Registeel|1|
+|Relicanth|1|
+|Rhyhorn|1|
+|Rhydon|1|
+|Roselia|1|3
+|Salamence|1|1
+|Sandshrew|1|
+|Sandslash|1|
+|Sableye|1|1
+|Sceptile|1|2
+|Seaking|1|
+|Sealeo|1|
+|Seedot|1|2
+|Sentret||1
+|Seviper|1|1
+|Sharpedo|1|3
+|Shedinja|1|1
+|Shelgon|1|
+|Shiftry|1|1
+|Shroomish|1|1
+|Shuppet|1|
+|Silcoon|1|
+|Skitty|1|2
+|Slakoth|1|
+|Slaking|1|
+|Slugma|1|
+|Snorunt|1|
+|Solrock|1|
+|Spheal|1|
+|Spinda|1|2
+|Spoink|1|2
+|Surskit|1|
+|Swablu|1|2
+|Swalot|1|
+|Swampert|1|1
+|Swellow|1|
+|Tailow|1|1
+|Tentacool|1|
+|Tentacruel|1|
+|Torchic|1|3
+|Torkoal|1|2
+|Totodile||1
+|Trapinch|1|1
+|Treecko|1|3
+|Tropius|1|1
+|Vibrava|1|2
+|Vigoroth|1|1
+|Vileplume|1|
+|Volbeat|1|1
+|Voltorb|1|
+|Wailord|1|
+|Wailmur|1|1
+|Walrein|1|
+|Weezing|1|
+|Whiscash|1
+|Whismur|1|3
+|Wigglytuff|1|
+|Wingull|1|1
+|Wooper||1
+|Wurmple|1|1
+|Wynaut|1|4
+|Yanma||1
+|Zangoose|1|1
+|Zigzagoon|1|1
+|Zubat|1|
