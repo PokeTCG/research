@@ -14,6 +14,8 @@ The majority of the card images in this document are from [Viola 9338's Japanese
 
 There are 210 cards in this set, but the numbering only goes as high as 202. #142 has 3 variants, #156 has 1 variant, #199 has 1 variant, #201 has 1 variant and #202 has 2 variants.
 
+The numbering of this set is based on the Generation III Hoenn Pokédex.
+
 ---
 
 ## Release 1 - Early-mid 2002
@@ -170,7 +172,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ケッキング (Slaking)](/images/GumCards_GBA/038.jpg)
 
-### 039 ケーシィ (Abra)
+### 039 ケーシィ (Abra (vs. ?))
 
 ⚠️  Information required.
 
@@ -446,11 +448,11 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![コータス (Torkoal)](/images/GumCards_GBA/105.jpg)
 
-### 106 ?
+### 106 ベトベター (Grimer (vs. ?))
 
 ⚠️  Information required.
 
-### 107 ?
+### 107 ベトベトン (Muk (vs. ?))
 
 ⚠️  Information required.
 
@@ -482,7 +484,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![パッチール (Spinda)](/images/GumCards_GBA/114.jpg)
 
-### 115 ?
+### 115 エアームド (Skarmory (vs. ?))
 
 ⚠️  Information required.
 
@@ -606,11 +608,11 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ポワルン (Castform (snowy form))](/images/GumCards_GBA/142c.jpg)
 
-### 143 ?
+### 143 ヒトデマン (Staryu (vs. ?))
 
 ⚠️  Information required.
 
-### 144 ?
+### 144 スターミー (Starmie (vs. ?))
 
 ⚠️  Information required.
 
@@ -650,11 +652,11 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![アブソル (Absol)](/images/GumCards_GBA/152.jpg)
 
-### 153 ?
+### 153 ロコン (Vulpix (vs. ?))
 
 ⚠️  Information required.
 
-### 154 ?
+### 154 キュウコン (Ninetales (vs. ?))
 
 ⚠️  Information required.
 
@@ -686,19 +688,19 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ソーナノ (Wynaut)](/images/GumCards_GBA/160.jpg)
 
-### 161 ?
+### 161 ソーナンス (Wobbuffet (vs. ?))
 
 ⚠️  Information required.
 
-### 162 ?
+### 162 ネイティ (Natu (vs. ?))
 
 ⚠️  Information required.
 
-### 163 ?
+### 163 ネイティオ (Xatu (vs. ?))
 
 ⚠️  Information required.
 
-### 164 ?
+### 164 キリンリキ (Girafarig (vs. ?))
 
 ⚠️  Information required.
 
@@ -714,7 +716,7 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![カイロス (Pinsir)](/images/GumCards_GBA/167.jpg)
 
-### 168 ?
+### 168 ヘラクロス (Heracross (vs. ?))
 
 ⚠️  Information required.
 
@@ -762,15 +764,15 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ジーランス (Relicanth)](/images/GumCards_GBA/179.jpg)
 
-### 180 ?
+### 180 サニーゴ (Corsola (vs. ?))
 
 ⚠️  Information required.
 
-### 181 ?
+### 181 チョンチー (Chinchou (vs. ?))
 
 ⚠️  Information required.
 
-### 182 ?
+### 182 ランターン (Lanturn (vs. ?))
 
 ⚠️  Information required.
 
@@ -778,15 +780,15 @@ There are 210 cards in this set, but the numbering only goes as high as 202. #14
 
 ![ラブカス (Luvdisc)](/images/GumCards_GBA/183.jpg)
 
-### 184 ?
+### 184 タッツー (Horsea (vs. ?))
 
 ⚠️  Information required.
 
-### 185 ?
+### 185 シードラ (Seadra (vs. ?))
 
 ⚠️  Information required.
 
-### 186 ?
+### 186 キングドラ (Kingdra (vs. ?))
 
 ⚠️  Information required.
 
@@ -906,11 +908,13 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Charizard||1
 |Chikorita||1
 |Chimecho|1|2
+|Chinchou|1|
 |Clamperl|1|
 |Claydol|1|1
 |Cleffa||1
 |Combusken|1|3
 |Corphish|1|2
+|Corsola|1|
 |Cradily|1|
 |Crawdaunt|1
 |Crobat|1|
@@ -932,6 +936,7 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Forretress||1
 |Gardevoir|1|1
 |Geodude|1|
+|Girafarig|1|
 |Glalie|1|
 |Gloom|1|
 |Golbat|1|
@@ -940,13 +945,15 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Golem|1|
 |Gorebyss|1|
 |Graveler|1|
+|Grimer|1|
 |Groudon|2|1
 |Grovyle|1|2
 |Grumpig|1|
 |Gulpin|1|1
 |Gyarados|1|1
 |Hariyama|1|1
-|Heracross||1
+|Heracross|1|1
+|Horsea|1|
 |Huntail|1|
 |Igglybuff|1|
 |Illumise|1|1
@@ -954,10 +961,12 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Jirachi|2|
 |Kacleon|1|1
 |Kadabra|1|
+|Kingdra|1|
 |Kirlia|1|1
 |Koffing|1|
 |Kyogre|1|3
 |Lairon|1|2
+|Lanturn|1|
 |Larvitar||1
 |Latias|1|
 |Latios|1|1
@@ -990,8 +999,10 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Milotic|1|
 |Minun|1|2
 |Mudkip|1|3
-|Natu||1
+|Muk|1|
+|Natu|1|1
 |Nincada|1|2
+|Ninetales|1|
 |Ninjask|1|
 |Nosepass|1|3
 |Numel|1|1
@@ -1020,6 +1031,7 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Sandslash|1|
 |Sableye|1|1
 |Sceptile|1|2
+|Seadra|1|
 |Seaking|1|
 |Sealeo|1|
 |Seedot|1|2
@@ -1032,6 +1044,7 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Shroomish|1|1
 |Shuppet|1|
 |Silcoon|1|
+|Skarmory|1|
 |Skitty|1|2
 |Slakoth|1|
 |Slaking|1|
@@ -1041,6 +1054,8 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Spheal|1|
 |Spinda|1|2
 |Spoink|1|2
+|Starmie|1|
+|Staryu|1|
 |Surskit|1|
 |Swablu|1|2
 |Swalot|1|
@@ -1060,6 +1075,7 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Vileplume|1|
 |Volbeat|1|1
 |Voltorb|1|
+|Vulpix|1|
 |Wailord|1|
 |Wailmur|1|1
 |Walrein|1|
@@ -1068,9 +1084,11 @@ This table lists the number of cards featuring each given Pokémon. *Named* list
 |Whismur|1|3
 |Wigglytuff|1|
 |Wingull|1|1
+|Wobbuffet|1|
 |Wooper||1
 |Wurmple|1|1
 |Wynaut|1|4
+|Xatu|1|
 |Yanma||1
 |Zangoose|1|1
 |Zigzagoon|1|1
