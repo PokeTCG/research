@@ -186,7 +186,13 @@ Below is a representation of how each card fits together to form the above image
 
 ### Adventure Card 079
 
-⚠️  Information required.
+ピカチュウの森 (Pikachu Forest)
+
+![https://i.imgur.com/1hiW37C.png](https://i.imgur.com/1hiW37Cm.png)
+
+|Pokémon on Front
+|:-:|
+|Pikachu
 
 ### Adventure Card 080
 
