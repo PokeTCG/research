@@ -2,9 +2,88 @@
 
 This document sets out to list all Japanese *Adventure Cards*.
 
+The images in this document are from my personal collection unless otherwise stated.
+
 ---
 
-## Unknown (?-?)
+## 2002 - Advanced Generation #1 (001-009)
+This set commemorates the launch of the アドバンスジェネレーション (Advanced Generation) anime series, released in English as "Ruby and Sapphire".
+
+|#|Name
+|:--|:--
+|001|Satoshi サトシ (Ash)
+|002|Haruka ハルカ (May)
+|003|Masato マサト (Max)
+|004|Takeshi タケシ (Brock)
+|005|Prof. Odamaki オダマキ博士 (Professor Birch)
+|006|Prof. Ohkido オーキド博士 (Professor Oak)
+|007|Team Rocket ロケット団
+|008|Team Magma マグマ団
+|009|Pokenabi ポケナビ (PokéNav)
+
+![https://i.imgur.com/ATD4aEH.jpg](https://i.imgur.com/ATD4aEHl.jpg)
+
+![https://i.imgur.com/nVNs20F.jpg](https://i.imgur.com/nVNs20Fl.jpg)
+
+--
+
+## 2002 - Advanced Generation #2 (010-018)
+This is an alternative version of the previous set.
+
+|#|Name
+|:--|:--
+|010|アチャモ & ハルカ (Torchic & May)
+|011|スバメ & サトシ (Taillow & Ash)
+|012|キモリ & サトシ (Treecko & Ash)
+|013|ハスボー & タケシ (Lotad & Brock)
+|014|ケムッソ & ハルカ (Wurmple & May)
+|015|サボネア & コジロウ (Cacnea & James)
+|016|ハブネーク & ムサシ (Seviper & Jessie)
+|017|ヤルキモノ & センリ (Vigoroth & Norman)
+|018|ノズパス & ツツジ (Nosepass & Roxanne)
+
+![https://i.imgur.com/vZCVomf.jpg](https://i.imgur.com/vZCVomfl.jpg)
+
+![https://i.imgur.com/UbK94qU.jpg](https://i.imgur.com/UbK94qUl.jpg)
+
+--
+
+## 2003 - Jirachi: Wish Maker (019-027)
+This set commemorates the 6th Pokémon movie, 七夜の願い星　ジラーチ (Wishing Star of the Seven Nights: Jirachi), which was released in English as "Jirachi: Wish Maker".
+
+|#|Name
+|:--|:--
+|019|⚠️  *Information required.*
+|020|⚠️  *Information required.*
+|021|⚠️  *Information required.*
+|022|⚠️  *Information required.*
+|023|⚠️  *Information required.*
+|024|⚠️  *Information required.*
+|025|⚠️  *Information required.*
+|026|⚠️  *Information required.*
+|027|ジラーチ (Jirachi)
+
+--
+
+## 2003 - Gotta Dance! (028-036)
+
+This set commemorates the 12th Pikachu short, おどるポケモンひみつ基地  (Secret Base of the Dancing Pokémon), which was released in English as "Gotta Dance!"
+
+|#|Name
+|:--|:--
+|028|⚠️  *Information required.*
+|029|⚠️  *Information required.*
+|030|ルンパッパ (Ludicolo)
+|031|⚠️  *Information required.*
+|032|⚠️  *Information required.*
+|033|⚠️  *Information required.*
+|034|⚠️  *Information required.*
+|035|⚠️  *Information required.*
+|036|⚠️  *Information required.*
+
+---
+
+## Unknown (037-066)
 
 ⚠️  Information required.
 
@@ -85,50 +164,23 @@ Features Trecko.
 ---
 
 ## 2004 - Destiny Deoxys (067-075)
+This set commemorates the 7th Pokémon movie, 裂空の訪問者　デオキシス (Deoxys the Visitor), which was released in English as "Destiny Deoxys".
 
-This is a set of 9 cards whose background make up the poster for the Destiny Deoxys movie:
+|#|Name
+|:--|:--
+|067|⚠️  *Information required.*
+|068|バシャーモ & カメックス (Blaziken & Blastoise)
+|069|コータス & ピカチュウ (Torkoal & Pikachu)
+|070|デオキシス ノーマルフォルム (Deoxys (normal form))
+|071|⚠️  *Information required.*
+|072|プラスル & マイナン (Plusle & Minun)
+|073|レックウザ (Rayquaza)
+|074|アタックフォルム (Deoxys (attack form))
+|075|ディフェンスフォルム (Deoxys (defense form))
 
-![https://i.imgur.com/9qve7U3.jpg](https://i.imgur.com/9qve7U3.jpg)
+![https://i.imgur.com/IeDGdwv.jpg](https://i.imgur.com/IeDGdwvl.jpg)
 
-The cards can be arranged in the following way to create the background:
-
-![https://i.imgur.com/4pJnhOg.png](https://i.imgur.com/4pJnhOg.png)
-
-### Adventure Card 067 - ?
-
-⚠️  Information required.
-
-### Adventure Card 068 - Blaziken & Blastoise
-
-![https://i.imgur.com/pu8qPoD.png](https://i.imgur.com/pu8qPoDm.png)
-
-### Adventure Card 069 - Torkoal & Pikachu
-
-![https://i.imgur.com/7vbBdRC.png](https://i.imgur.com/7vbBdRCm.png)
-
-### Adventure Card 070 - Deoxys (Normal)
-
-![https://i.imgur.com/utTmnjD.png](https://i.imgur.com/utTmnjDm.png)
-
-### Adventure Card 071 - ?
-
-⚠️  Information required.
-
-### Adventure Card 072 - Minun & Plusle
-
-![https://i.imgur.com/WwYQjmd.png](https://i.imgur.com/WwYQjmdm.png)
-
-### Adventure Card 073 - Rayquaza
-
-![https://i.imgur.com/NcGgXC3.png](https://i.imgur.com/NcGgXC3m.png)
-
-### Adventure Card 074 - Deoxys (Attack)
-
-![https://i.imgur.com/5chNdtw.png](https://i.imgur.com/5chNdtwm.png)
-
-### Adventure Card 075 - Deoxys (Defense)
-
-![https://i.imgur.com/2lwLAdU.png](https://i.imgur.com/2lwLAdUm.png)
+![https://i.imgur.com/BXtnfgH.jpg](https://i.imgur.com/BXtnfgHl.jpg)
 
 ---
 
@@ -284,13 +336,13 @@ The cards can be arranged together in the following way:
 
 ![https://i.imgur.com/n8ojR5n.png](https://i.imgur.com/n8ojR5nm.png)
 
-### Adventure Card 090 - (6) ?
+### Adventure Card 090 - (6) Pikachu & Meowth
 
 ![https://i.imgur.com/7nSfj64.png](https://i.imgur.com/7nSfj64m.png)
 
-### Adventure Card 091 - (7) ?
+### Adventure Card 091 - (7) Regice
 
-⚠️  Information required.
+![https://i.imgur.com/BohTx3W.png](https://i.imgur.com/BohTx3Wm.png)
 
 ### Adventure Card 092 - (8) ?
 
