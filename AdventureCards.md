@@ -84,82 +84,46 @@ This set commemorates the 12th Pikachu short, おどるポケモンひみつ基�
 ---
 
 ## Unknown (037-066)
+For whatever reason, at this point they decided to move away from both releasing cards in sets of 9 and releasing cards whose backgrounds can be joined together to make a large picture. They did return to releasing 9 card sets after this, but where this set was also released without being a multiple of 9 itself, 9 card-per-page binders now become out of sync if the cards are listed numerically.
 
-⚠️  Information required.
+Card #048 is shown below as an example of how these cards all look.
 
-This set features trainers on one side and their Pokémon on the reverse.
-
-### Adventure Card 043 - James / Cacnea
-
-![https://i.imgur.com/hW12FJI.png](https://i.imgur.com/hW12FJIm.png)
-
-![https://i.imgur.com/1yPPPY6.png](https://i.imgur.com/1yPPPY6m.png)
-
-### Adventure Card 044
-
-⚠️  Information required.
-
-### Adventure Card 045 - ? / Carvanha
-
-![https://i.imgur.com/v6mDKL2.png](https://i.imgur.com/v6mDKL2.png)
-
-![https://i.imgur.com/DYl14EA.png](https://i.imgur.com/DYl14EAm.png)
-
-### Adventure Card 046
-
-⚠️  Information required.
-
-### Adventure Card 047
-
-⚠️  Information required.
-
-### Adventure Card 048 - Misty / Togetic
+|#|Name
+|:--|:--
+|037|⚠️  *Information required.*
+|038|⚠️  *Information required.*
+|039|⚠️  *Information required.*
+|040|⚠️  *Information required.*
+|041|⚠️  *Information required.*
+|042|⚠️  *Information required.*
+|043|コジロウのサボネア (James' Cacnea)
+|044|⚠️  *Information required.*
+|045|アクア団のキバニア (Team Aqua's Carvanha)
+|046|⚠️  *Information required.*
+|047|⚠️  *Information required.*
+|048|カスミのトゲチック (Misty's Togetic)
+|049|⚠️  *Information required.*
+|050|ツツジのノズパス (Roxanne's Nosepass)
+|051|トウキのマクノシタ (Brawly's Makuhita)
+|052|サトシのスバメ (Ash's Taillow)
+|053|⚠️  *Information required.*
+|054|⚠️  *Information required.*
+|055|⚠️  *Information required.*
+|056|テッセンのラクライ (Wattson's Electrike)
+|057|⚠️  *Information required.*
+|058|⚠️  *Information required.*
+|059|⚠️  *Information required.*
+|060|⚠️  *Information required.*
+|061|⚠️  *Information required.*
+|062|⚠️  *Information required.*
+|063|⚠️  *Information required.*
+|064|⚠️  *Information required.*
+|065|⚠️  *Information required.*
+|066|⚠️  *Information required.*
 
 ![https://i.imgur.com/spQSsAu.png](https://i.imgur.com/spQSsAum.png)
 
 ![https://i.imgur.com/12X9tt4.png](https://i.imgur.com/12X9tt4m.png)
-
-### Adventure Card 049
-
-⚠️  Information required.
-
-### Adventure Card 050 - ? / Nosepass
-
-![https://i.imgur.com/o5S8Szx.png](https://i.imgur.com/o5S8Szxm.png)
-
-![https://i.imgur.com/mbgOfvj.png](https://i.imgur.com/mbgOfvjm.png)
-
-### Adventure Card 051 - Makuhita
-
-Features Trecko.
-
-![https://i.imgur.com/lrK9zCN.png](https://i.imgur.com/lrK9zCNm.png)
-
-![https://i.imgur.com/OCjYMh8.png](https://i.imgur.com/OCjYMh8m.png)
-
-### Adventure Card 052 - Ash / Tailow
-
-![https://i.imgur.com/zrDwUBm.png](https://i.imgur.com/zrDwUBmm.png)
-
-![https://i.imgur.com/AoJg6OA.png](https://i.imgur.com/AoJg6OAm.png)
-
-### Adventure Card 053
-
-⚠️  Information required.
-
-### Adventure Card 054
-
-⚠️  Information required.
-
-### Adventure Card 055
-
-⚠️  Information required.
-
-### Adventure Card 056 - ? / Electrike
-
-![https://i.imgur.com/qcVN9eE.png](https://i.imgur.com/qcVN9eEm.png)
-
-![https://i.imgur.com/cFbDBmS.png](https://i.imgur.com/cFbDBmSm.png)
 
 ---
 
@@ -185,124 +149,31 @@ This set commemorates the 7th Pokémon movie, 裂空の訪問者　デオキシ�
 ---
 
 ## 2005 - Poképark (076-084)
-These were given out at Pokémon The Park circus-like theme parks between March 18th and September 25th 2005.
+These were given out at Pokémon The Park circus-like theme parks between March 18th and September 25th 2005. The front of each card promotes an attraction at the PokéPark.
 
-The front of each card promotes attractions at the Poképark. The back, however, acts as a puzzle, whereby aligning multiple cards together will form a large picture made up of various different Pokémon, which ends up looking like this:
+|#|Name
+|:--|:--
+|076|くるくるシップ ((Lugia's) Spinning Ship)
+|077|🇦 *Japanese?*  (Pokémon Merry-Go-Round)
+|078|🇦 *Japanese?*  (Twister: Fury in the Sky)
+|079|ピカチュウの森 (Pikachu Forest)
+|080|⚠️  *Information required.*
+|081|🇦 *Japanese?* ((Mudkip's) Big Splash)
+|082|わんぱくトレイン ((The Pichu Brothers') Rascal Railway)
+|083|クラッシュカーバトル (Bumper Car Battle (Team Aqua vs. Team Magma))
+|084|🇦 *Japanese?* (Pokémon Star Swing)
 
-![A cropped version of the full image](https://i.imgur.com/JZ0ar1y.jpg)
+There were actually 11 different attractions at PokéPark, but only 9 made it onto the cards. Bulbapedia has some detail about each in their [PokéPark (theme park)](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9Park_(theme_park)) wiki entry (not much though).
 
-In total there are only 9 cards in this set.
-
-Below is a representation of how each card fits together to form the above image. You'll notice that not all of the cards are fully contained within the image; that's because the image above has been slightly cropped.
-
-![How the card backs join together](https://i.imgur.com/eMG862j.png)
-
-### Adventure Card 076
-くるくるシップ (Spinning Ship)
-
-![https://i.imgur.com/TNElcL2.png](https://i.imgur.com/TNElcL2m.png)
-
-|Pokémon on Front
-|:-:|
-|Lugia
-|Marill
-|Minun
-|Pichu
-|Plusle
-|Psyduck
-|Skitty
-|Wailmer
-
-### Adventure Card 077
+I'm not able to read or write Japanese. I'm not sure what the Japanese names of each of the below cards are:
 
 ![https://i.imgur.com/CvfwKXv.png](https://i.imgur.com/CvfwKXvm.png)
 
-|Pokémon on Front
-|:-:|
-|Entei
-|Ho-oh
-|Raikou
-|Suicune
-
-### Adventure Card 078
-
 ![https://i.imgur.com/tbBizu9.png](https://i.imgur.com/tbBizu9m.png)
-
-|Pokémon on Front
-|:-:|
-|Rayquaza
-|Deoxys (Normal)
-|Deoxys (Attack)
-|Deoxys (Defense)
-|Deoxys (Speed)
-
-### Adventure Card 079
-
-ピカチュウの森 (Pikachu Forest)
-
-![https://i.imgur.com/1hiW37C.png](https://i.imgur.com/1hiW37Cm.png)
-
-|Pokémon on Front
-|:-:|
-|Pikachu
-
-### Adventure Card 080
-
-⚠️  Information required.
-
-### Adventure Card 081
 
 ![https://i.imgur.com/kwlw6k7.png](https://i.imgur.com/kwlw6k7m.png)
 
-|Pokémon on Front
-|:-:|
-|Blastoise
-|Castform (Normal)
-|Chikorita
-|Corphish
-|Cyndaquil
-|Hoppip
-|Lapras
-|Marill
-|Mudkip
-|Phanpy
-|Totodile
-|Shroomish
-|Slowpoke
-|Sudowoodo
-|Surskit
-
-### Adventure Card 082
-
-わんぱくトレイン (? Train)
-
-![https://i.imgur.com/MaaRaTe.png](https://i.imgur.com/MaaRaTem.png)
-
-|Pokémon on Front
-|:-:|
-|Munchlax
-|Pichu
-|Wynaut
-
-### Adventure Card 083
-
-クラッシュカーバトル (Crash Car Battle)
-
-![https://i.imgur.com/qfTBixT.png](https://i.imgur.com/qfTBixTm.png)
-
-|Pokémon on Front
-|:-:|
-|Groudon
-|Kyogre
-
-### Adventure Card 084
-
 ![https://i.imgur.com/EMpiNGX.png](https://i.imgur.com/EMpiNGXm.png)
-
-|Pokémon on Front
-|:-:|
-|Celebi
-|Jirachi
 
 ---
 
