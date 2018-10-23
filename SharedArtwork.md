@@ -44,11 +44,14 @@ This document has been split into sets:
 |EX Team Rocket Returns|[SharedArtwork/EXTeamRocketReturns.md](/SharedArtwork/EXTeamRocketReturns.md)|5
 |EX Deoxys|[SharedArtwork/EXDeoxys.md](/SharedArtwork/EXDeoxys.md)|4
 |EX Emerald|[SharedArtwork/EXEmerald.md](/SharedArtwork/EXEmerald.md)|3
+|EX Unseen Forces|[SharedArtwork/EXUnseenForces.md](/SharedArtwork/EXUnseenForces.md)|5
+|EX Delta Species|[SharedArtwork/EXDeltaSpecies.md](/SharedArtwork/EXDeltaSpecies.md)|13
+|EX Legend Maker|[SharedArtwork/EXLegendMaker.md](/SharedArtwork/EXLegendMaker.md)|1
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
 |POP Series 1|*No shared artwork.*|-
 |Nintendo Black Star Promos|
 |POP Series 2|[SharedArtwork/POPSeries2.md](/SharedArtwork/POPSeries2.md)|5[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
-|**Total**||**152**
+|**Total**||**166**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).

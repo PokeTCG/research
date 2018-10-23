@@ -43,3 +43,7 @@ See [Fossil #62](#62---mysterious-fossil).
 Is this a Pokémon being scorched... or just a rock?
 
 ![Rhyhorn](/images/SharedArtwork/unsure-exteammagmateamaqua-38.png)
+
+## EX Legend Maker
+### 79 - Mysterious Fossil HP 50
+See [Fossil #62](#62---mysterious-fossil).

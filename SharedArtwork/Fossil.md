@@ -18,4 +18,4 @@
 |:--|
 |Jigglypuff
 
-![Jigglypuff](/images/SharedArtwork/fossil-61.png)
+![Recycle](/images/SharedArtwork/fossil-61.png)
