@@ -7,7 +7,7 @@
 |Apricot*
 |Zapdos*
 
-\* Much easier to see in #10 below.
+\* Much easier to see in [#10](#10---gengar) below.
 
 ![Magneton](/images/SharedArtwork/skyridge-159.png)
 
