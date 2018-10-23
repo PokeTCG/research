@@ -1,4 +1,4 @@
-# Shared Artwork - Fossil
+# Shared Artwork - POP Series 2
 
 ## 1 - Entei
 

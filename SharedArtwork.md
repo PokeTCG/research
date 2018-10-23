@@ -47,11 +47,15 @@ This document has been split into sets:
 |EX Unseen Forces|[SharedArtwork/EXUnseenForces.md](/SharedArtwork/EXUnseenForces.md)|5
 |EX Delta Species|[SharedArtwork/EXDeltaSpecies.md](/SharedArtwork/EXDeltaSpecies.md)|13
 |EX Legend Maker|[SharedArtwork/EXLegendMaker.md](/SharedArtwork/EXLegendMaker.md)|1
+|EX Holon Phantoms|[SharedArtwork/EXHolonPhantoms.md](/SharedArtwork/EXHolonPhantoms.md)|2
+|EX Crystal Guardians|[SharedArtwork/EXCrystalGuardians.md](/SharedArtwork/EXCrystalGuardians.md)|1
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
+|Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
 |POP Series 1|*No shared artwork.*|-
-|Nintendo Black Star Promos|
-|POP Series 2|[SharedArtwork/POPSeries2.md](/SharedArtwork/POPSeries2.md)|5[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
-|**Total**||**166**
+|POP Series 2|[SharedArtwork/POPSeries2.md](/SharedArtwork/POPSeries2.md)|5
+|POP Series 3|[SharedArtwork/POPSeries3.md](/SharedArtwork/POPSeries3.md)|3
+|POP Series 4|[SharedArtwork/POPSeries4.md](/SharedArtwork/POPSeries4.md)|1
+|**Total**||**173**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).

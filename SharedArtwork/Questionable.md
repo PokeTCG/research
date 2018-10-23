@@ -47,3 +47,7 @@ Is this a Pokémon being scorched... or just a rock?
 ## EX Legend Maker
 ### 79 - Mysterious Fossil HP 50
 See [Fossil #62](#62---mysterious-fossil).
+
+## EX Holon Phantoms
+### 88 - Mysterious Fossil HP 50
+See [Fossil #62](#62---mysterious-fossil).
