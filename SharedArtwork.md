@@ -21,10 +21,18 @@ This document has been split into sets:
 
 |Set|Link|Cards
 |:--|:--|--:
-|Base|[SharedArtwork/BaseSet.md](/SharedArtwork/BaseSet.md)|6
-|Jungle|--|0
+|Base Set|[SharedArtwork/BaseSet.md](/SharedArtwork/BaseSet.md)|6
+|Jungle|*No shared artwork.*|-
 |Fossil|[SharedArtwork/Fossil.md](/SharedArtwork/Fossil.md)|2
+|Base Set 2|[SharedArtwork/BaseSet2.md](/SharedArtwork/BaseSet2.md)|5
+|Team Rocket|[SharedArtwork/TeamRocket.md](/SharedArtwork/TeamRocket.md)|6
+|Gym Heroes|[SharedArtwork/GymHeroes.md](/SharedArtwork/GymHeroes.md)|13
+|Gym Challenge|[SharedArtwork/GymChallenge.md](/SharedArtwork/GymChallenge.md)|13
+|Neo Genesis|[SharedArtwork/NeoGenesis.md](/SharedArtwork/NeoGenesis.md)|13
+|Neo Discovery|[SharedArtwork/NeoDiscovery.md](/SharedArtwork/NeoDiscovery.md)|1
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
+|Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
+|**Total**||**67**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
