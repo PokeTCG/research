@@ -71,7 +71,7 @@
 |Cyndaquil
 |Pikachu
 
-![Hitmontop](/images/SharedArtwork/aquapolis-131.png)
+![Pokémon Park](/images/SharedArtwork/aquapolis-131.png)
 
 ## 135 - Time Shard
 

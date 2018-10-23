@@ -19,8 +19,27 @@ Is that a Politoed before Gen II existed?
 
 ![Oddish](/images/SharedArtwork/unsure-teamrocket-63.png)
 
+## Legendary Collection
+### 109 - Mysterious Fossil
+See [Fossil #62](#62---mysterious-fossil).
+
 ## Skyridge
 ### 47 - Buried Fossil
 Should these fossils be counted as Omanyte, Kabuto and Aerodactyl?
 
-![Mysterious Fossil](/images/SharedArtwork/unsure-skyridge-47.png)
+![Buried Fossil](/images/SharedArtwork/unsure-skyridge-47.png)
+
+## EX Sandstorm
+### 2 - Cacturne
+What are the birds/bats in the background?
+
+![Cacturne](/images/SharedArtwork/unsure-exsandstorm-2.png)
+
+### 91 - Mysterious Fossil HP 10
+See [Fossil #62](#62---mysterious-fossil).
+
+## EX Team Magma vs Team Aqua
+### 38 - Rhyhorn
+Is this a Pokémon being scorched... or just a rock?
+
+![Rhyhorn](/images/SharedArtwork/unsure-exteammagmateamaqua-38.png)

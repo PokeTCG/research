@@ -35,9 +35,20 @@ This document has been split into sets:
 |Expedition Base Set|[SharedArtwork/ExpeditionBaseSet.md](/SharedArtwork/ExpeditionBaseSet.md)|11
 |Aquapolis|[SharedArtwork/Aquapolis.md](/SharedArtwork/Aquapolis.md)|11
 |Skyridge|[SharedArtwork/Skyridge.md](/SharedArtwork/Skyridge.md)|21
+|EX Ruby & Sapphire|[SharedArtwork/EXRubySapphire.md](/SharedArtwork/EXRubySapphire.md)|3
+|EX Sandstorm|[SharedArtwork/EXSandstorm.md](/SharedArtwork/EXSandstorm.md)|4
+|EX Dragon|[SharedArtwork/EXDragon.md](/SharedArtwork/EXDragon.md)|2
+|EX Team Magma vs Team Aqua|[SharedArtwork/EXTeamMagmaTeamAqua.md](/SharedArtwork/EXTeamMagmaTeamAqua.md)|1
+|EX Hidden Legends|[SharedArtwork/EXHiddenLegends.md](/SharedArtwork/EXHiddenLegends.md)|2
+|EX FireRed & LeafGreen|[SharedArtwork/EXFireRedLeafGreen.md](/SharedArtwork/EXFireRedLeafGreen.md)|5
+|EX Team Rocket Returns|[SharedArtwork/EXTeamRocketReturns.md](/SharedArtwork/EXTeamRocketReturns.md)|5
+|EX Deoxys|[SharedArtwork/EXDeoxys.md](/SharedArtwork/EXDeoxys.md)|4
+|EX Emerald|[SharedArtwork/EXEmerald.md](/SharedArtwork/EXEmerald.md)|3
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
-|Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
-|**Total**||**123**
+|POP Series 1|*No shared artwork.*|-
+|Nintendo Black Star Promos|
+|POP Series 2|[SharedArtwork/POPSeries2.md](/SharedArtwork/POPSeries2.md)|5[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
+|**Total**||**152**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
