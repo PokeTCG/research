@@ -24,7 +24,7 @@
 
 |Featured Pokémon|
 |:--|
-|Ho-oh
+|Lugia
 
 ![Poliwrath](/images/SharedArtwork/skyridge-174.png)
 
@@ -50,7 +50,7 @@
 
 |Featured Pokémon|
 |:--|
-|Ho-oh
+|Lugia
 
 ![Poliwrath](/images/SharedArtwork/skyridge-26.png)
 
