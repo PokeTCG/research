@@ -15,6 +15,12 @@ Should these fossils be counted as Omanyte, Kabuto and Aerodactyl?
 
 ## Team Rocket
 ### 63 - Oddish
-Is that a Politoed?
+Is that a Politoed before Gen II existed?
 
 ![Oddish](/images/SharedArtwork/unsure-teamrocket-63.png)
+
+## Skyridge
+### 47 - Buried Fossil
+Should these fossils be counted as Omanyte, Kabuto and Aerodactyl?
+
+![Mysterious Fossil](/images/SharedArtwork/unsure-skyridge-47.png)

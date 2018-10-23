@@ -94,7 +94,7 @@
 
 |Featured Pokémon|
 |:--|
-|Clefairy
+|Cleffa
 |Miltank
 
 ![Moo-Moo Milk](/images/SharedArtwork/neogenesis-101.png)

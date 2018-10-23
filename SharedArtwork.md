@@ -30,9 +30,14 @@ This document has been split into sets:
 |Gym Challenge|[SharedArtwork/GymChallenge.md](/SharedArtwork/GymChallenge.md)|13
 |Neo Genesis|[SharedArtwork/NeoGenesis.md](/SharedArtwork/NeoGenesis.md)|13
 |Neo Discovery|[SharedArtwork/NeoDiscovery.md](/SharedArtwork/NeoDiscovery.md)|1
+|Neo Destiny|[SharedArtwork/NeoDestiny.md](/SharedArtwork/NeoDestiny.md)|10
+|Legendary Collection|[SharedArtwork/LegendaryCollection.md](/SharedArtwork/LegendaryCollection.md)|3
+|Expedition Base Set|[SharedArtwork/ExpeditionBaseSet.md](/SharedArtwork/ExpeditionBaseSet.md)|11
+|Aquapolis|[SharedArtwork/Aquapolis.md](/SharedArtwork/Aquapolis.md)|11
+|Skyridge|[SharedArtwork/Skyridge.md](/SharedArtwork/Skyridge.md)|21
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
 |Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
-|**Total**||**67**
+|**Total**||**123**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
