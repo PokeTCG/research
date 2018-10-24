@@ -78,7 +78,7 @@ Release dates are in *YYYY-MM-DD* format.
 |2009-02-11|Platinum
 |2009-03-01|POP Series 9|*No shared artwork.*|-|-
 |2009-12-02|Pokémon Rumble|[Rumble.md](/SharedArtwork/Rumble.md)|
-|||**Total**|**227**|**180**
+|||**Total**|**251**|**202**
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
 
