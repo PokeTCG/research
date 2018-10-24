@@ -55,7 +55,12 @@ This document has been split into sets:
 |POP Series 2|[SharedArtwork/POPSeries2.md](/SharedArtwork/POPSeries2.md)|5
 |POP Series 3|[SharedArtwork/POPSeries3.md](/SharedArtwork/POPSeries3.md)|3
 |POP Series 4|[SharedArtwork/POPSeries4.md](/SharedArtwork/POPSeries4.md)|1
-|**Total**||**173**
+|POP Series 5|[SharedArtwork/POPSeries5.md](/SharedArtwork/POPSeries5.md)|1
+|POP Series 6|*No shared artwork.*|-
+|POP Series 7|*No shared artwork.*|-
+|POP Series 8|[SharedArtwork/POPSeries8.md](/SharedArtwork/POPSeries8.md)|1
+|POP Series 9|*No shared artwork.*|-
+|**Total**||**175**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
