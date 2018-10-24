@@ -48,7 +48,11 @@ This document has been split into sets:
 |EX Delta Species|[SharedArtwork/EXDeltaSpecies.md](/SharedArtwork/EXDeltaSpecies.md)|13
 |EX Legend Maker|[SharedArtwork/EXLegendMaker.md](/SharedArtwork/EXLegendMaker.md)|1
 |EX Holon Phantoms|[SharedArtwork/EXHolonPhantoms.md](/SharedArtwork/EXHolonPhantoms.md)|2
-|EX Crystal Guardians|[SharedArtwork/EXCrystalGuardians.md](/SharedArtwork/EXCrystalGuardians.md)|1
+|EX Crystal Guardians|[SharedArtwork/EXCrystalGuardians.md](/SharedArtwork/EXCrystalGuardians.md)|2
+|EX Dragon Frontiers|[SharedArtwork/EXDragonFrontiers.md](/SharedArtwork/EXDragonFrontiers.md)|7
+|EX Power Keepers|[SharedArtwork/EXPowerKeepers.md](/SharedArtwork/EXPowerKeepers.md)|2
+|Diamond & Pearl|[SharedArtwork/DiamondPearl.md](/SharedArtwork/DiamondPearl.md)|4
+|Diamond & Pearl Mysterious Treasures|[SharedArtwork/DPMysteriousTreasures.md](/SharedArtwork/DPMysteriousTreasures.md)|6
 |WotC Black Star Promos|[SharedArtwork/WotCBlackStarPromos.md](/SharedArtwork/WotCBlackStarPromos.md)|5
 |Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
 |POP Series 1|*No shared artwork.*|-
@@ -60,7 +64,7 @@ This document has been split into sets:
 |POP Series 7|*No shared artwork.*|-
 |POP Series 8|[SharedArtwork/POPSeries8.md](/SharedArtwork/POPSeries8.md)|1
 |POP Series 9|*No shared artwork.*|-
-|**Total**||**175**
+|**Total**||**195**
 
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).

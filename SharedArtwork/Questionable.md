@@ -51,3 +51,13 @@ See [Fossil #62](#62---mysterious-fossil).
 ## EX Holon Phantoms
 ### 88 - Mysterious Fossil HP 50
 See [Fossil #62](#62---mysterious-fossil).
+
+## EX Dragon Frontiers
+### 78 - Old Rod
+Is that a Pokémon below the surface?
+
+![Old Rod](/images/SharedArtwork/unsure-exdragonfrontiers-78.png)
+
+## EX Power Keepers
+### 85 - Mysterious Fossil HP 50
+See [Fossil #62](#62---mysterious-fossil).

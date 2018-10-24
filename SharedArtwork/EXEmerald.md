@@ -14,7 +14,7 @@
 |:--|
 |Raichu
 
-![Battle Frontier](/images/SharedArtwork/exemerald-79.png)
+![Mr. Stone's Project](/images/SharedArtwork/exemerald-79.png)
 
 ## 85 - Wally's Training
 

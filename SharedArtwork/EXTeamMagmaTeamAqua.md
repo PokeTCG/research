@@ -6,4 +6,4 @@
 |:--|
 |Oddish
 
-![Mr. Briney's Compassion](/images/SharedArtwork/exteammagmateamaqua-85.png)
+![Warp Point](/images/SharedArtwork/exteammagmateamaqua-85.png)
