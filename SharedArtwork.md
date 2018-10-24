@@ -77,9 +77,8 @@ Release dates are in *YYYY-MM-DD* format.
 |2008-11-05|DP Stormfront
 |2009-02-11|Platinum
 |2009-03-01|POP Series 9|*No shared artwork.*|-|-
-|**Total**||**227**|**180**
-
-\* The only card featuring in this set was released on July 24th 2003.
+|2009-12-02|Pokémon Rumble|[Rumble.md](/SharedArtwork/Rumble.md)|
+|||**Total**|**227**|**180**
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
 
@@ -91,3 +90,6 @@ A lot of the cards in this section are incredibly rare, so I've separated them f
 |:--|:--|:--|--:|--:
 |2001-08-26|Pokémon VS - Tyranitar Half Deck|[PokemonVs.md](/SharedArtwork/PokemonVS.md)|4|2
 |2002-12-??*|Best of... Promo|[BestOf.md](/SharedArtwork/BestOf.md)|1|-
+|||**Total**|**5**|**2**
+
+\* The only card featuring in this set was released on July 24th 2003.
