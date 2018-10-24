@@ -39,6 +39,7 @@ This document has been split into sets which are ordered by date. The *Cards* co
 |Skyridge|[SharedArtwork/Skyridge.md](/SharedArtwork/Skyridge.md)|21|18
 |EX Ruby & Sapphire|[SharedArtwork/EXRubySapphire.md](/SharedArtwork/EXRubySapphire.md)|3|3
 |EX Sandstorm|[SharedArtwork/EXSandstorm.md](/SharedArtwork/EXSandstorm.md)|4|4
+|Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4|4
 |EX Dragon|[SharedArtwork/EXDragon.md](/SharedArtwork/EXDragon.md)|2|2
 |EX Team Magma vs Team Aqua|[SharedArtwork/EXTeamMagmaTeamAqua.md](/SharedArtwork/EXTeamMagmaTeamAqua.md)|1|-
 |EX Hidden Legends|[SharedArtwork/EXHiddenLegends.md](/SharedArtwork/EXHiddenLegends.md)|2|2
@@ -61,14 +62,13 @@ This document has been split into sets which are ordered by date. The *Cards* co
 |Diamond & Pearl|[SharedArtwork/DiamondPearl.md](/SharedArtwork/DiamondPearl.md)|4|3
 |Diamond & Pearl Mysterious Treasures|[SharedArtwork/DPMysteriousTreasures.md](/SharedArtwork/DPMysteriousTreasures.md)|6|6
 |POP Series 6|*No shared artwork.*|-|-
-|Diamond & Pearl Secret Wonders|[SharedArtwork/DPSecretWonders.md](/SharedArtwork/DPSecretWonders.md)|4
-|Diamond & Pearl Great Encounters|[SharedArtwork/DPGreatEncounters.md](/SharedArtwork/DPGreatEncounters.md)|2
-|POP Series 7|*No shared artwork.*|-
-|Diamond & Pearl Majestic Dawn|[SharedArtwork/DPMajesticDawn.md](/SharedArtwork/DPMajesticDawn.md)|4
-|Diamond & Pearl Legends Awakened|[SharedArtwork/DPLegendsAwakened.md](/SharedArtwork/DPLegendsAwakened.md)|2
-|POP Series 8|[SharedArtwork/POPSeries8.md](/SharedArtwork/POPSeries8.md)|1
-|POP Series 9|*No shared artwork.*|-
-|Nintendo Black Star Promos|[SharedArtwork/NintendoBlackStarPromos.md](/SharedArtwork/NintendoBlackStarPromos.md)|4
+|Diamond & Pearl Secret Wonders|[SharedArtwork/DPSecretWonders.md](/SharedArtwork/DPSecretWonders.md)|4|2
+|Diamond & Pearl Great Encounters|[SharedArtwork/DPGreatEncounters.md](/SharedArtwork/DPGreatEncounters.md)|2|2
+|POP Series 7|*No shared artwork.*|-|-
+|Diamond & Pearl Majestic Dawn|[SharedArtwork/DPMajesticDawn.md](/SharedArtwork/DPMajesticDawn.md)|4|2
+|Diamond & Pearl Legends Awakened|[SharedArtwork/DPLegendsAwakened.md](/SharedArtwork/DPLegendsAwakened.md)|2|2
+|POP Series 8|[SharedArtwork/POPSeries8.md](/SharedArtwork/POPSeries8.md)|1|-
+|POP Series 9|*No shared artwork.*|-|-
 |**Total**||**212**
 
 
