@@ -6,7 +6,7 @@
 |:--|
 |Aipom
 
-![Magikarp](/images/SharedArtwork/expeditionbaseset-72.png)
+![Chansey](/images/SharedArtwork/expeditionbaseset-72.png)
 
 ## 118 - Magikarp
 
