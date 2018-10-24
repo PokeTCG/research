@@ -1,6 +1,6 @@
 # Shared Artwork - POP Series 8
 
-## 11 Roxanne's Research
+## 11 - Roxanne's Research
 
 |Featured Pokémon|
 |:--|

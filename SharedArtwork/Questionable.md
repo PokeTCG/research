@@ -61,3 +61,9 @@ Is that a Pokémon below the surface?
 ## EX Power Keepers
 ### 85 - Mysterious Fossil HP 50
 See [Fossil #62](#62---mysterious-fossil).
+
+## Diamond & Pearl Legends Awakened
+### 51 - Castform
+Are these Exeggutors or just palm trees?
+
+![Castform](/images/SharedArtwork/unsure-dplegendsawakened-51.png)

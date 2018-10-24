@@ -1,6 +1,6 @@
 # Shared Artwork - POP Series 5
 
-## 12 Pikachu
+## 12 - Pikachu
 
 |Featured Pokémon|
 |:--|
