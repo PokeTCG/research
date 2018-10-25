@@ -40,7 +40,7 @@
 
 ![Pokémon Nurse](/images/SharedArtwork/expeditionbaseset-145.png)
 
-## 145 - Pokémon Reversal
+## 146 - Pokémon Reversal
 
 |Featured Pokémon|
 |:--|
