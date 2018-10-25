@@ -46,7 +46,7 @@
 
 ![Imposter Oak's Revenge](/images/SharedArtwork/teamrocket-76.png)
 
-## 75 - Sleep!
+## 79 - Sleep!
 
 |Featured Pokémon|
 |:--|
