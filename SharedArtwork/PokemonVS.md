@@ -1,6 +1,6 @@
 # Shared Artwork - Pokémon VS - Tyranitar Half Deck
 
-## -- - Mantine
+## -- - Clair's Mantine
 
 |Featured Pokémon|
 |:--|
