@@ -15,12 +15,12 @@
 |:--|
 |Golem
 |Mew
-|Onyx
+|Onix
 |Venonat
 
 ![Pidgeot](/images/SharedArtwork/southernislands-2.png)
 
-## 3 - Onyx
+## 3 - Onix
 
 |Featured Pokémon|
 |:--|
@@ -29,7 +29,7 @@
 |Pidgeot
 |Venonat
 
-![Onyx](/images/SharedArtwork/southernislands-3.png)
+![Onix](/images/SharedArtwork/southernislands-3.png)
 
 ## 4 - Togepi
 
