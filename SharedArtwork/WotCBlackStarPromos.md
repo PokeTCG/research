@@ -1,6 +1,6 @@
 # Shared Artwork - WotC Black Star Promos
 
-## 16 - Computer Search
+## 16 - Computer Error
 
 |Featured Pokémon|
 |:--|
