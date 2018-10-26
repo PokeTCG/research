@@ -13,7 +13,6 @@
 
 |Featured Pokémon|
 |:--|
-|Golem
 |Mew
 |Onix
 |Venonat
