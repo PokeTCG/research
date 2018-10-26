@@ -86,6 +86,8 @@
 
 |Featured Pokémon|
 |:--|
+|Jigglypuff
+|Meowth
 |Primeape
 |Venomoth
 
