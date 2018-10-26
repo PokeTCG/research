@@ -1,6 +1,6 @@
 # Shared Artwork - Diamond & Pearl
 
-## 61 - Energy Switch
+## 107 - Energy Switch
 
 |Featured Pokémon|
 |:--|
