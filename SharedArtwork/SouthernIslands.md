@@ -64,6 +64,8 @@
 
 |Featured Pokémon|
 |:--|
+|Dodrio
+|Exeggutor
 |Jigglypuff
 
 ![Ledyba](/images/SharedArtwork/southernislands-7.png)
