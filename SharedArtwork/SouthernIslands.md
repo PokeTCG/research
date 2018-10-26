@@ -74,8 +74,11 @@
 
 |Featured Pokémon|
 |:--|
+|Butterfree*
 |Dodrio
 |Weepinbell
+
+\* The black area in the top right is Butterfree's wing.
 
 ![Jigglypuff](/images/SharedArtwork/southernislands-8.png)
 
