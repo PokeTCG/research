@@ -36,7 +36,7 @@
 |Featured Pokémon|
 |:--|
 |Ivysaur
-|Psyduck
+|Pikachu
 |Wartortle
 
 ![Togepi](/images/SharedArtwork/southernislands-4.png)
