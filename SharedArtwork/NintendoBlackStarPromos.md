@@ -1,6 +1,6 @@
 # Shared Artwork - Nintendo Black Star Promos
 
-## 027 - Tropical Wind
+## 026 - Tropical Wind
 
 |Featured Pokémon|
 |:--|
