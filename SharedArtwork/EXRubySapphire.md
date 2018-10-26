@@ -9,7 +9,7 @@
 
 ![Energy Switch](/images/SharedArtwork/exrubysapphire-82.png)
 
-## 82 - Pokémon Reversal
+## 87 - Pokémon Reversal
 
 |Featured Pokémon|
 |:--|
