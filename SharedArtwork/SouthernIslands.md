@@ -122,6 +122,7 @@
 |Featured Pokémon|
 |:--|
 |Bellsprout
+|Exeggutor
 |Psyduck
 
 ![Slowking](/images/SharedArtwork/southernislands-14.png)
