@@ -45,7 +45,7 @@
 
 |Featured Pokémon|
 |:--|
-|Psyduck
+|Pikachu
 |Raticate
 |Slowpoke
 |Togepi
