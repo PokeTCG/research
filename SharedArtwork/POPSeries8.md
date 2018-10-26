@@ -1,9 +1,9 @@
 # Shared Artwork - POP Series 8
 
-## 11 - Roxanne's Research
+## 11 - Roseanne's Research
 
 |Featured Pokémon|
 |:--|
 |Piplup
 
-![Roxanne's Research](/images/SharedArtwork/popseries8-11.png)
+![Roseanne's Research](/images/SharedArtwork/popseries8-11.png)

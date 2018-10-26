@@ -103,7 +103,7 @@ Card #048 is shown below as an example of how these cards all look.
 |047|⚠️  *Information required.*
 |048|カスミのトゲチック (Misty's Togetic)
 |049|⚠️  *Information required.*
-|050|ツツジのノズパス (Roxanne's Nosepass)
+|050|ツツジのノズパス (Roseanne's Nosepass)
 |051|トウキのマクノシタ (Brawly's Makuhita)
 |052|サトシのスバメ (Ash's Taillow)
 |053|⚠️  *Information required.*

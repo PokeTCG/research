@@ -16,13 +16,13 @@
 
 ![Switch](/images/SharedArtwork/dpsecretwonders-122.png)
 
-## 125 - Roxanne's Research
+## 125 - Roseanne's Research
 
 |Featured Pokémon|
 |:--|
 |Piplup
 
-![Roxanne's Research](/images/SharedArtwork/dpsecretwonders-125.png)
+![Roseanne's Research](/images/SharedArtwork/dpsecretwonders-125.png)
 
 ## 128 - Switch
 
