@@ -57,7 +57,6 @@
 |Featured Pokémon|
 |:--|
 |Ivysaur
-|Pidgeot
 |Slowpoke
 
 ![Raticate](/images/SharedArtwork/southernislands-6.png)
