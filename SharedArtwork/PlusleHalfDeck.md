@@ -1,4 +1,4 @@
-# Shared Artwork - EX Trainer Kit 2
+# Shared Artwork - Plusle Half Deck
 
 ## 10 - Professor Cozmo's Discovery
 

@@ -21,6 +21,8 @@ This document has been split into sets which are ordered by date. The *Cards* co
 
 Release dates are in *YYYY-MM-DD* format.
 
+This does *not* include Spirt Link trainer cards.
+
 |Release|Set|Link|Cards|Unique Artwork
 |:--|:--|:--|--:|--:
 |1999-01-09|Base Set|[BaseSet.md](/SharedArtwork/BaseSet.md)|6|6
@@ -51,7 +53,7 @@ Release dates are in *YYYY-MM-DD* format.
 |2004-09-01|POP Series 1|*No shared artwork.*|-|-
 |2004-11-08|EX Team Rocket Returns|[EXTeamRocketReturns.md](/SharedArtwork/EXTeamRocketReturns.md)|8|7
 |2005-02-14|EX Deoxys|[EXDeoxys.md](/SharedArtwork/EXDeoxys.md)|4|4
-|2005-03-15|EX Trainer Kit 2|[EXTrainerKit2.md](/SharedArtwork/EXTrainerKit2.md)|1|-
+|2005-03-15|Plusle Half Deck (EX Trainer Kit 2)|[PlusleHalfDeck.md](/SharedArtwork/PlusleHalfDeck.md)|1|-
 |2005-05-09|EX Emerald|[EXEmerald.md](/SharedArtwork/EXEmerald.md)|3|2
 |2005-08-01|POP Series 2|[POPSeries2.md](/SharedArtwork/POPSeries2.md)|5|2
 |2005-08-22|EX Unseen Forces|[EXUnseenForces.md](/SharedArtwork/EXUnseenForces.md)|5|1
@@ -77,7 +79,11 @@ Release dates are in *YYYY-MM-DD* format.
 |2008-11-05|DP Stormfront
 |2009-02-11|Platinum
 |2009-03-01|POP Series 9|*No shared artwork.*|-|-
-|2009-12-02|Pokémon Rumble|[Rumble.md](/SharedArtwork/Rumble.md)|
+|2009-12-02|Pokémon Rumble|[Rumble.md](/SharedArtwork/Rumble.md)|6|6
+|2010-02-24|HeartGold & SoulSilver Black Star Promos|[HGSSBlackStarPromos.md](/SharedArtwork/HGSSBlackStarPromos.md)|3|3
+|2010-05-??|Raichu Half Deck (HS Trainer Kit)|[RaichuHalfDeck.md](/SharedArtwork/RaichuHalfDeck.md)|4|
+|2013-03-09|Black & White Black Star Promos||10|10
+|2013-10-12|XY Black Star Promos||16|16
 |||**Total**|**251**|**202**
 
 For a list of Pokémon by their National Pokédex Number without images, please see [Shared Artwork Pokedex](/SharedArtworkPokedex.md).
