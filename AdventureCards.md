@@ -187,7 +187,20 @@ The cards can be arranged together in the following way:
 
 ![https://i.imgur.com/o7MdHxX.png](https://i.imgur.com/EHY7m6g.png)
 
-### Adventure Card 085 - (1) ?
+|#|Name
+|:--|:--
+|085|アーロンとルカリオ (Sir Aaron & Lucario)
+|086|⚠️  *Information required.*
+|087|マニューラ (Weavile)
+|088|⚠️  *Information required.*
+|089|ウソハチ (Bonsly)
+|090|ピカチュウとニャース (Pikachu & Meowth)
+|091|レジアイス (Regice)
+|092|⚠️  *Information required.*
+|093|⚠️  *Information required.*
+|---|ミュウと波導の勇者　ルカリオ (Mew and the Wave Hero: Lucario)
+
+### Adventure Card 085 - (1) アーロンとルカリオ (Sir Aaron & Lucario)
 
 ![https://i.imgur.com/zU89iv7.png](https://i.imgur.com/zU89iv7m.png)
 
@@ -195,7 +208,7 @@ The cards can be arranged together in the following way:
 
 ⚠️  Information required.
 
-### Adventure Card 087 - (3) Sneasel
+### Adventure Card 087 - (3) マニューラ (Weavile)
 
 ![https://i.imgur.com/kMuy3h1.png](https://i.imgur.com/kMuy3h1m.png)
 
@@ -203,15 +216,15 @@ The cards can be arranged together in the following way:
 
 ⚠️  Information required.
 
-### Adventure Card 089 - (5) Bonsly
+### Adventure Card 089 - (5) ウソハチ (Bonsly)
 
 ![https://i.imgur.com/n8ojR5n.png](https://i.imgur.com/n8ojR5nm.png)
 
-### Adventure Card 090 - (6) Pikachu & Meowth
+### Adventure Card 090 - (6) ピカチュウとニャース (Pikachu & Meowth)
 
 ![https://i.imgur.com/7nSfj64.png](https://i.imgur.com/7nSfj64m.png)
 
-### Adventure Card 091 - (7) Regice
+### Adventure Card 091 - (7) レジアイス (Regice)
 
 ![https://i.imgur.com/BohTx3W.png](https://i.imgur.com/BohTx3Wm.png)
 
@@ -222,3 +235,7 @@ The cards can be arranged together in the following way:
 ### Adventure Card 093 - (9) ?
 
 ⚠️  Information required.
+
+### Adventure Card (Unnumbered) - ミュウと波導の勇者　ルカリオ (Mew and the Wave Hero: Lucario)
+
+![https://i.imgur.com/7w2F7dI.png](https://i.imgur.com/7w2F7dIm.png)
