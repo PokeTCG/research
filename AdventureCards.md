@@ -106,8 +106,8 @@ Card #048 is shown below as an example of how these cards all look.
 |050|ツツジのノズパス (Roseanne's Nosepass)
 |051|トウキのマクノシタ (Brawly's Makuhita)
 |052|サトシのスバメ (Ash's Taillow)
-|053|⚠️  *Information required.*
-|054|⚠️  *Information required.*
+|053|サトシのヘイガニ (Ash's Corphish)
+|054|ハルカのアゲハント (May's Beautifly)
 |055|⚠️  *Information required.*
 |056|テッセンのラクライ (Wattson's Electrike)
 |057|⚠️  *Information required.*
@@ -116,10 +116,10 @@ Card #048 is shown below as an example of how these cards all look.
 |060|⚠️  *Information required.*
 |061|⚠️  *Information required.*
 |062|⚠️  *Information required.*
-|063|⚠️  *Information required.*
+|063|クスノキ館長のトドグラー (Captain Stern's Sealeo)
 |064|⚠️  *Information required.*
 |065|⚠️  *Information required.*
-|066|⚠️  *Information required.*
+|066|クレアのパッチール (Clair's Spinda)
 
 ![https://i.imgur.com/spQSsAu.png](https://i.imgur.com/spQSsAum.png)
 
